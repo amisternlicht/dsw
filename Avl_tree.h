@@ -9,24 +9,14 @@ template <class Value, class Cmp>
 class Tree {
    public:
     const Cmp& Compare;
-    // Value& val;
-
     Node<Value>* min;
     Node<Value>* max;
     Node<Value>* root;
 
     Tree(){};
     Tree(const Cmp& _compare)
-        : /* val(*(new Value(_val))),*/ Compare(_compare), min(nullptr), max(nullptr), root(nullptr){};
-    /* Tree(const Cmp& _compare, Node<Value>* sortedNodes[], int nodesCount)
-            : Compare(*(new Cmp(_compare))), min(nullptr), max(nullptr), root(nullptr)
-    {
-            if (nodesCount < 1) return;
-            min = sortedNodes[0];
-            max = sortedNodes[nodesCount - 1];
-            root = insertArray(sortedNodes, 0, nodesCount - 1);
-    };*/
-    ~Tree() { /*delete &Compare;*/ }
+        :  Compare(_compare), min(nullptr), max(nullptr), root(nullptr){};
+    ~Tree() {}
     void Roll(Node<Value>* to_roll)
     {
         if (to_roll->bf == 2) {
@@ -180,7 +170,9 @@ class Tree {
         A->bf = hl - hr;
         Verify(B);
     };
-    // builds an inner tree from a sorted array by recursion algorithm in O(n)
+    /*
+    builds an inner tree from a sorted array by recursion algorithm in O(n)
+    */ 
     Node<Value>* insertArray(int typeID, int start, int end)
     {
         if (start > end) {
@@ -189,21 +181,25 @@ class Tree {
         int mid = (start + end) / 2;
         Value val(typeID, mid);
         Node<Value>* to_add = new Node<Value>(val);
+        //recursively call again on left child
         to_add->left = insertArray(typeID, start, mid - 1);
         if (to_add->left) {
             to_add->left->up = to_add;
         }
+        //recursively call again on right child
         to_add->right = insertArray(typeID, mid + 1, end);
         if (to_add->right) {
             to_add->right->up = to_add;
         }
-        int hl = to_add->left != nullptr ? to_add->left->height : -1;
-        int hr = to_add->right != nullptr ? to_add->right->height : -1;
+        // calculate height after both returned
+        int hl = (to_add->left != nullptr) ? to_add->left->height : -1;
+        int hr = (to_add->right != nullptr) ? to_add->right->height : -1;
         to_add->height = hl > hr ? hl + 1 : hr + 1;
         to_add->bf = hl - hr;
 
         return to_add;
     };
+
     StatusType AddNode(Node<Value>* node)
     {
         // if tree is empty
@@ -214,10 +210,11 @@ class Tree {
             return SUCCESS;
         }
 
+        //else
         Node<Value>* p = root;
         bool nodeAdded = false;
         while (!nodeAdded) {
-            if (Compare(p->val, node->val) <= 0)  // if p<node
+            if (Compare(p->val, node->val) <= 0)  // if p<=node
             {
                 p->bf--;
                 if (p->right != nullptr) {  // keep going down
@@ -248,6 +245,7 @@ class Tree {
                 }
             }
         }
+        //check if we need a roll
         Verify(p);
         return SUCCESS;
     }
@@ -365,10 +363,10 @@ class Tree {
         }
     }
     /*
-     * Searches for node with matching Value
-     * returns pointer to that node
-     * if such node does not exists returns NULL
-     */
+    Searches for node with matching Value
+    returns pointer to that node
+    if such node does not exists returns NULL
+    */
     Node<Value>* find(const Value& val)
     {
         Node<Value>* p = root;
@@ -403,10 +401,9 @@ class Tree {
         return p;
     }
 
-    Node<Value>* getNext(Node<Value>* curr)
-    {
+    Node<Value>* getNext(Node<Value>* curr){
         if (curr == nullptr) return nullptr;
-
+        //if we have a right child then after moving to him go all the way to the left and this is the next node inorder
         if (curr->right != nullptr) {
             Node<Value>* p = curr->right;
             while (p->left != nullptr) {
@@ -414,20 +411,21 @@ class Tree {
             }
             return p;
         }
-        // stop when we came from left son
-        Node<Value>* tmp = curr->up;
-        while (tmp != nullptr && curr == tmp->right) {
-            curr = tmp;
-            tmp = tmp->up;
+        //else need to go up the tree until we are the left child of the parent!
+        Node<Value>* parent = curr->up;
+        while (parent != nullptr && curr == parent->right) {
+            curr = parent;
+            parent = parent->up;
         }
-        curr = tmp;
+        curr = parent;
 
         return curr;
     }
+
     Node<Value>* getPrev(Node<Value>* curr)
     {
         if (curr == nullptr) return nullptr;
-        // if has no left son
+        //if we have a left child then after moving to him go all the way to the right and this is the previous node inorder
         if (curr->left != nullptr) {
             Node<Value>* p = curr->left;
             while (p->right != nullptr) {
@@ -435,7 +433,7 @@ class Tree {
             }
             return p;
         }
-        // stop when we came from right son
+        // else go up the tree and stop when we are the right child
         Node<Value>* tmp = curr->up;
         while (tmp != nullptr && curr == tmp->left) {
             curr = tmp;
@@ -448,16 +446,15 @@ class Tree {
     /*
     Swaps the location of two nodes in the tree
     */
-    void Swap(Node<Value>* a, Node<Value>* b)
-    {
-        // swap between nodes
-        // check if nodes are neighbors
+    void Swap(Node<Value>* a, Node<Value>* b){
         Node<Value>* tmp = a->up;
+        // check if b is parent of a
         if (a->up == b) {
             a->up = b->up;
             b->up = a;
         }
         else {
+        // check if a is parent of b
             if (b->up == a) {
                 b->up = a->up;
                 a->up = b;
@@ -467,7 +464,7 @@ class Tree {
                 b->up = tmp;
             }
         }
-
+        //same algorithm as parents
         tmp = a->right;
         if (a->right == b) {
             a->right = b->right;
@@ -498,9 +495,7 @@ class Tree {
                 b->left = tmp;
             }
         }
-
-        // fix neighbors
-        // fix parents
+        // fix the neighbors of the nodes
         if (a->up) {
             // if was left son
             if (a->up->left && a->up->left == b) {
@@ -537,8 +532,7 @@ class Tree {
             // change left to new node
             a->left->up = a;
         }
-    }
-};
-
+    } 
+}; //tree class     
 }  // namespace DS
 #endif

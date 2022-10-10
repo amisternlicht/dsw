@@ -394,8 +394,6 @@ class dsw_company {
         }
     };
     
-
 };
 }  // namespace DS
-
 #endif

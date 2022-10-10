@@ -11,9 +11,9 @@ class Node {
     Node<Value>* left;
     Node<Value>* right;
     Node<Value>* up;
+    //some nodes need to allocate additional structures in val
     Node(Value& _val, Node* up = nullptr)
         : val(*(new Value(_val))), height(0), bf(0), left(nullptr), right(nullptr), up(up){};
-    // Node(const& Node other) = default;
     ~Node() { delete &val; };
 };
 }  // namespace DS

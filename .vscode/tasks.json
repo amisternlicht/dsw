@@ -9,7 +9,7 @@
             "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
             "args": [
                 "main1.cpp",
-                "AVL_tree.h",
+                "Avl_tree.h",
                 "dsw.h",
                 "library.h",
                 "Node.h",
