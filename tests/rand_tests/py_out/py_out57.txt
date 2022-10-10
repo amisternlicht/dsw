@@ -1,0 +1,169 @@
+init done.
+AddCarType: INVALID_INPUT
+RemoveCarType: INVALID_INPUT
+GetWorstModels: FAILURE
+GetWorstModels: FAILURE
+AddCarType: INVALID_INPUT
+AddCarType: INVALID_INPUT
+AddCarType: SUCCESS
+RemoveCarType: FAILURE
+AddCarType: INVALID_INPUT
+AddCarType: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+AddCarType: FAILURE
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+GetWorstModels: FAILURE
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+293	|	0
+293	|	1
+293	|	2
+293	|	3
+293	|	4
+293	|	5
+293	|	6
+293	|	7
+293	|	8
+293	|	9
+293	|	10
+293	|	11
+293	|	12
+293	|	13
+293	|	14
+293	|	15
+2718	|	0
+2718	|	1
+2718	|	2
+2718	|	3
+2718	|	4
+2718	|	5
+2718	|	6
+2718	|	7
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+AddCarType: FAILURE
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: FAILURE
+SellCar: SUCCESS
+SellCar: INVALID_INPUT
+SellCar: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+RemoveCarType: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+293	|	0
+293	|	1
+293	|	2
+293	|	3
+293	|	4
+293	|	5
+293	|	6
+293	|	7
+293	|	8
+293	|	9
+293	|	10
+293	|	11
+293	|	12
+293	|	13
+293	|	14
+293	|	15
+2718	|	0
+2718	|	1
+2718	|	2
+2718	|	3
+2718	|	4
+2718	|	5
+2718	|	6
+2718	|	7
+2718	|	9
+2718	|	10
+2718	|	11
+2718	|	12
+2718	|	13
+2718	|	14
+2718	|	15
+2718	|	16
+2718	|	17
+2718	|	18
+2718	|	19
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+293	|	0
+293	|	1
+293	|	2
+293	|	3
+293	|	4
+293	|	5
+293	|	6
+293	|	7
+293	|	8
+293	|	9
+293	|	10
+293	|	11
+293	|	12
+293	|	13
+293	|	14
+293	|	15
+2718	|	0
+2718	|	1
+2718	|	2
+2718	|	3
+2718	|	4
+2718	|	5
+2718	|	6
+2718	|	7
+2718	|	9
+2718	|	10
+2718	|	11
+2718	|	12
+2718	|	13
+2718	|	14
+2718	|	15
+2718	|	16
+2718	|	17
+2718	|	18
+2718	|	19
+2718	|	20
+2718	|	21
+2902	|	0
+2902	|	1
+2902	|	2
+2902	|	3
+2902	|	4
+2902	|	5
+2902	|	6
+3322	|	0
+3322	|	1
+3322	|	2
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+RemoveCarType: INVALID_INPUT
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+quit done.

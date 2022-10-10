@@ -1,0 +1,293 @@
+init done.
+AddCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+GetBestSellerModelByType: 0
+--Start of worst models--
+CarType	|	Model
+1561	|	0
+1561	|	1
+1561	|	2
+1561	|	3
+1561	|	4
+1561	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1561	|	0
+1561	|	1
+1561	|	2
+1561	|	3
+1561	|	4
+1561	|	5
+1561	|	6
+1561	|	7
+1561	|	8
+1561	|	9
+1561	|	10
+1561	|	11
+1561	|	12
+1561	|	13
+1561	|	14
+1561	|	15
+1561	|	16
+1561	|	17
+1561	|	18
+1561	|	19
+1561	|	20
+1561	|	21
+1561	|	22
+1561	|	23
+1561	|	24
+1561	|	25
+2026	|	0
+2026	|	1
+2026	|	2
+2026	|	3
+2026	|	4
+2026	|	5
+2026	|	6
+8274	|	0
+8274	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+RemoveCarType: FAILURE
+GetBestSellerModelByType: 0
+MakeComplaint: FAILURE
+SellCar: FAILURE
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1561	|	0
+1561	|	1
+1561	|	2
+1561	|	3
+1561	|	4
+1561	|	5
+1561	|	6
+1561	|	7
+1561	|	8
+1561	|	9
+1561	|	10
+1561	|	11
+1561	|	12
+1561	|	13
+1561	|	14
+1561	|	15
+1561	|	16
+1561	|	17
+1561	|	18
+1561	|	19
+1561	|	20
+1561	|	21
+1561	|	22
+1561	|	23
+1561	|	24
+1561	|	25
+1717	|	0
+1717	|	2
+1717	|	3
+1717	|	4
+1717	|	5
+1717	|	6
+1717	|	7
+1717	|	8
+1717	|	9
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+--Start of worst models--
+CarType	|	Model
+1561	|	0
+1561	|	1
+1561	|	2
+1561	|	3
+1561	|	4
+1561	|	5
+1561	|	6
+1561	|	7
+1561	|	8
+1561	|	9
+1561	|	10
+1561	|	11
+1561	|	12
+1561	|	13
+1561	|	14
+1561	|	15
+1561	|	17
+1561	|	18
+1561	|	19
+1561	|	20
+1561	|	21
+1561	|	22
+1561	|	23
+1561	|	24
+1561	|	25
+1717	|	0
+1717	|	2
+1717	|	3
+1717	|	4
+1717	|	5
+1717	|	6
+1717	|	7
+1717	|	8
+1717	|	9
+1717	|	10
+1717	|	11
+1717	|	12
+1717	|	13
+2026	|	0
+2026	|	2
+2026	|	3
+2026	|	5
+4518	|	0
+4518	|	1
+4518	|	2
+4518	|	3
+4518	|	4
+4518	|	5
+4518	|	6
+4518	|	7
+4518	|	8
+4518	|	9
+4518	|	10
+4518	|	11
+4518	|	12
+4518	|	13
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 16
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+GetWorstModels: FAILURE
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1561	|	0
+1561	|	1
+1561	|	2
+1561	|	3
+1561	|	4
+1561	|	5
+1561	|	6
+1561	|	7
+1561	|	8
+1561	|	9
+1561	|	10
+1561	|	11
+1561	|	12
+1561	|	13
+1561	|	14
+1561	|	15
+1561	|	17
+1561	|	18
+1561	|	19
+1561	|	20
+1561	|	21
+1561	|	23
+1561	|	24
+1561	|	25
+1717	|	0
+1717	|	2
+1717	|	3
+1717	|	4
+1717	|	5
+1717	|	6
+1717	|	9
+1717	|	10
+1717	|	11
+1717	|	12
+1717	|	13
+2310	|	0
+2310	|	1
+2310	|	3
+2310	|	4
+2310	|	5
+2310	|	6
+2310	|	7
+2310	|	8
+2310	|	9
+2310	|	10
+2310	|	11
+2310	|	12
+2310	|	13
+2310	|	14
+2310	|	15
+2310	|	16
+2310	|	17
+2310	|	18
+2310	|	19
+5405	|	0
+5405	|	1
+5405	|	2
+5405	|	3
+5405	|	4
+5405	|	5
+5405	|	6
+5405	|	7
+5405	|	8
+5405	|	9
+5405	|	10
+5405	|	11
+5405	|	12
+5405	|	13
+5405	|	14
+5405	|	15
+5405	|	16
+5405	|	17
+5405	|	18
+5405	|	19
+5405	|	20
+5405	|	21
+5405	|	22
+5405	|	23
+5405	|	24
+5405	|	25
+7889	|	0
+7889	|	1
+7889	|	2
+7889	|	3
+7889	|	4
+7889	|	5
+7889	|	6
+7889	|	7
+7889	|	8
+7889	|	9
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 16
+SellCar: SUCCESS
+GetBestSellerModelByType: 16
+GetBestSellerModelByType: FAILURE
+quit done.

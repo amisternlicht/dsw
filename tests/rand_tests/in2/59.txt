@@ -1,0 +1,25 @@
+Init
+GetWorstModels -5
+AddCarType 4148 17
+AddCarType 6173 25
+SellCar 4148 13
+AddCarType 4088 9
+GetBestSellerModelByType 0
+AddCarType 4593 7
+SellCar 4148 14
+MakeComplaint 1080 4 68
+SellCar 4593 4
+GetBestSellerModelByType 4088
+AddCarType 8335 4
+SellCar 4593 4
+SellCar 8335 1
+SellCar 6173 14
+AddCarType 1553 26
+MakeComplaint 4593 4 60
+GetBestSellerModelByType 6173
+SellCar 6173 24
+GetBestSellerModelByType 0
+SellCar 3807 26
+AddCarType 2394 2
+AddCarType 1979 27
+Quit

@@ -1,0 +1,2717 @@
+Init
+AddCarType 7132 19
+AddCarType 6956 11
+AddCarType 9155 27
+GetBestSellerModelByType 6956
+MakeComplaint -3 21 53
+MakeComplaint 9707 29 85
+GetWorstModels 9
+GetBestSellerModelByType 0
+AddCarType 9155 20
+AddCarType 6270 21
+GetWorstModels -10
+MakeComplaint -7 13 57
+SellCar -8 2
+GetWorstModels 3
+AddCarType 2786 17
+MakeComplaint -8 29 67
+SellCar 6956 3
+GetBestSellerModelByType 9472
+GetBestSellerModelByType 0
+SellCar 6270 20
+SellCar 6956 3
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+GetBestSellerModelByType 766
+SellCar 7132 4
+MakeComplaint 2589 19 59
+SellCar 9155 6
+SellCar 9155 8
+SellCar 9155 65
+AddCarType 5597 24
+SellCar 7132 18
+MakeComplaint 9155 6 1
+SellCar 2786 9
+AddCarType 2786 2
+MakeComplaint 6956 3 58
+SellCar 6270 19
+MakeComplaint 6270 84 20
+MakeComplaint 3557 24 82
+RemoveCarType 7132
+MakeComplaint 6270 19 6
+RemoveCarType -8
+SellCar 2786 2
+SellCar 6270 7
+GetBestSellerModelByType -2
+SellCar 6956 8
+MakeComplaint 9194 29 40
+GetWorstModels 107
+SellCar 9310 16
+MakeComplaint 2786 2 65
+RemoveCarType -10
+GetWorstModels 35
+SellCar 2786 8
+SellCar 5597 14
+GetBestSellerModelByType 0
+SellCar 6270 10
+AddCarType 333 16
+SellCar 333 0
+SellCar 5597 7
+AddCarType 1927 8
+GetWorstModels 38
+SellCar 1927 3
+SellCar 6 -9
+SellCar -2 17
+SellCar 9155 1
+SellCar 6270 66
+MakeComplaint 1927 3 44
+SellCar 333 2
+GetBestSellerModelByType 2866
+SellCar 2139 13
+MakeComplaint 2786 9 42
+MakeComplaint 1927 3 82
+MakeComplaint 6956 8 97
+GetWorstModels 112
+SellCar 2921 23
+AddCarType 5469 6
+AddCarType 3233 29
+AddCarType 6219 30
+SellCar 9155 5
+SellCar 2786 1
+GetWorstModels 192
+SellCar 6270 16
+MakeComplaint 333 0 48
+MakeComplaint 6956 8 75
+MakeComplaint 6270 19 83
+SellCar 9155 96
+MakeComplaint 1927 3 7
+GetWorstModels 37
+GetWorstModels 96
+GetWorstModels 199
+MakeComplaint 2418 25 67
+AddCarType 3324 23
+SellCar 8292 24
+MakeComplaint 1927 3 9
+SellCar 5597 3
+SellCar 333 3
+SellCar 2550 21
+GetWorstModels 11
+SellCar 6270 19
+SellCar 1927 3
+AddCarType 1858 29
+MakeComplaint 4365 6 8
+SellCar 5469 4
+SellCar 3233 15
+SellCar 6956 3
+GetBestSellerModelByType 5823
+SellCar 8135 16
+GetBestSellerModelByType 0
+SellCar 7977 15
+SellCar 4 -1
+GetWorstModels 83
+SellCar 9155 12
+RemoveCarType -7
+GetWorstModels 243
+SellCar 6956 1
+MakeComplaint 333 3 8
+SellCar 6956 4
+SellCar 5469 1
+SellCar 6956 10
+SellCar 6219 15
+GetBestSellerModelByType 3324
+MakeComplaint 5469 1 45
+GetWorstModels 38
+SellCar 9155 3
+AddCarType 6219 3
+MakeComplaint 6219 15 13
+SellCar 333 1
+MakeComplaint 9155 8 94
+MakeComplaint 2786 2 44
+MakeComplaint 1 -1 54
+MakeComplaint 333 3 88
+GetBestSellerModelByType 0
+MakeComplaint 333 1 84
+SellCar 9155 4
+MakeComplaint 5469 1 15
+SellCar 6270 10
+AddCarType 2543 21
+SellCar 5597 16
+AddCarType 2786 7
+GetWorstModels 271
+SellCar 333 6
+SellCar 1858 19
+AddCarType 4967 1
+GetWorstModels 34
+RemoveCarType 6842
+AddCarType 9972 3
+RemoveCarType 3233
+AddCarType 6785 18
+MakeComplaint 6219 15 67
+SellCar -3 13
+AddCarType 333 27
+MakeComplaint 6956 10 73
+MakeComplaint 2786 2 20
+SellCar 8055 21
+MakeComplaint 1858 19 97
+SellCar 4967 0
+MakeComplaint 9155 8 41
+GetWorstModels 120
+SellCar 2543 20
+SellCar 6196 26
+MakeComplaint 6219 15 29
+SellCar 9972 2
+SellCar 1927 2
+GetBestSellerModelByType 0
+SellCar 2786 7
+MakeComplaint 5469 4 32
+SellCar 6270 3
+MakeComplaint 9155 12 85
+SellCar 5469 2
+SellCar 4208 1
+MakeComplaint 1927 2 30
+SellCar 2543 2
+RemoveCarType 3324
+SellCar 1218 21
+GetWorstModels 12
+GetBestSellerModelByType 0
+AddCarType 333 16
+MakeComplaint 2543 2 27
+SellCar 6785 1
+AddCarType 6780 19
+GetBestSellerModelByType 0
+SellCar 6785 13
+SellCar -3 30
+AddCarType 6270 21
+MakeComplaint 2543 2 38
+AddCarType 9739 24
+AddCarType 6780 24
+SellCar 9623 29
+SellCar 2543 7
+MakeComplaint 6219 15 47
+SellCar 333 43
+SellCar 3341 5
+MakeComplaint 333 3 77
+SellCar 6956 1
+GetBestSellerModelByType 1927
+RemoveCarType 6270
+GetWorstModels 255
+SellCar 1927 5
+AddCarType 2786 29
+SellCar 9155 20
+MakeComplaint 5597 16 48
+SellCar 5597 5
+SellCar 9972 2
+AddCarType 7524 16
+SellCar 6776 3
+SellCar 2543 100
+GetBestSellerModelByType 0
+AddCarType 333 21
+MakeComplaint 7160 12 50
+SellCar 2543 8
+SellCar 6956 10
+RemoveCarType 4581
+GetBestSellerModelByType 0
+MakeComplaint 9739 49 27
+SellCar 8544 6
+MakeComplaint 9155 5 21
+AddCarType 1189 12
+GetWorstModels 138
+MakeComplaint 6219 15 69
+GetWorstModels 139
+RemoveCarType 5597
+MakeComplaint 2786 7 9
+MakeComplaint 4967 0 41
+MakeComplaint 2786 1 42
+RemoveCarType 7524
+AddCarType 8118 30
+GetWorstModels 181
+SellCar -3 16
+SellCar 9739 19
+MakeComplaint 5906 3 42
+GetBestSellerModelByType 2452
+MakeComplaint 9155 20 70
+MakeComplaint 6785 1 7
+SellCar 9739 9
+GetBestSellerModelByType 1927
+SellCar 333 4
+GetWorstModels 253
+SellCar 9739 9
+AddCarType 719 23
+GetWorstModels 47
+MakeComplaint 1927 3 23
+AddCarType 4873 27
+AddCarType 3674 11
+AddCarType 2929 28
+AddCarType 1499 29
+GetWorstModels 364
+GetWorstModels 133
+AddCarType 1766 29
+RemoveCarType 3917
+SellCar 8867 14
+RemoveCarType 2929
+MakeComplaint 1927 11 62
+AddCarType 3725 14
+AddCarType 3755 30
+AddCarType 3630 20
+GetWorstModels 359
+AddCarType 1600 14
+MakeComplaint 5199 27 56
+SellCar 3755 15
+SellCar 4967 0
+GetWorstModels 468
+RemoveCarType 719
+SellCar 6780 11
+RemoveCarType 2478
+SellCar 9416 19
+MakeComplaint 1927 3 21
+MakeComplaint 6785 13 19
+MakeComplaint 7326 24 65
+RemoveCarType 5469
+GetBestSellerModelByType -8
+MakeComplaint 6219 15 19
+SellCar 4967 0
+RemoveCarType 2082
+MakeComplaint 9739 19 55
+SellCar 1794 29
+AddCarType 1927 17
+SellCar 1499 11
+GetBestSellerModelByType 2786
+SellCar 1499 20
+AddCarType 8263 27
+GetBestSellerModelByType 1766
+AddCarType 9828 7
+RemoveCarType 6780
+MakeComplaint 2786 2 97
+MakeComplaint 6956 8 66
+GetWorstModels 279
+GetWorstModels 379
+GetBestSellerModelByType 0
+MakeComplaint 3144 5 35
+SellCar 8263 21
+GetWorstModels 347
+RemoveCarType 1858
+GetBestSellerModelByType 0
+SellCar 1499 4
+SellCar 4873 20
+MakeComplaint 8263 21 76
+GetWorstModels 249
+MakeComplaint 1499 20 51
+GetBestSellerModelByType 2543
+GetWorstModels 99
+MakeComplaint 1927 2 13
+MakeComplaint 9972 2 73
+RemoveCarType 4320
+SellCar 1927 1
+AddCarType 3230 16
+SellCar 2543 10
+SellCar 2319 21
+MakeComplaint 6219 15 13
+SellCar 3 -7
+SellCar 4633 9
+GetWorstModels 23
+GetWorstModels 447
+AddCarType 2786 26
+SellCar 1927 68
+AddCarType 6583 22
+MakeComplaint 333 4 50
+GetWorstModels 451
+GetWorstModels 302
+MakeComplaint 2580 6 79
+MakeComplaint 9155 6 62
+MakeComplaint 333 66 31
+MakeComplaint 6785 100 31
+SellCar 3230 1
+GetWorstModels 385
+SellCar 3230 12
+SellCar 9373 21
+SellCar 9 -6
+AddCarType 2593 2
+AddCarType 5 -21
+AddCarType 9828 11
+MakeComplaint 4873 20 22
+AddCarType -7 16
+SellCar 9739 15
+GetWorstModels 415
+SellCar 6956 7
+SellCar 6956 9
+SellCar 4041 26
+SellCar 1600 13
+MakeComplaint 1600 13 58
+GetBestSellerModelByType 333
+MakeComplaint 9155 1 47
+SellCar 9739 116
+SellCar 4873 91
+SellCar 6785 16
+SellCar 1927 4
+AddCarType 8994 2
+SellCar 4 -4
+RemoveCarType 5851
+AddCarType -7 5
+SellCar 3755 16
+MakeComplaint 214 20 48
+MakeComplaint 8263 21 43
+MakeComplaint 7109 25 55
+SellCar 8263 3
+AddCarType 319 15
+RemoveCarType 4967
+SellCar 8994 1
+AddCarType 5965 1
+MakeComplaint 9880 20 88
+SellCar 9041 11
+AddCarType 2610 1
+MakeComplaint 6785 1 71
+MakeComplaint 9972 2 52
+SellCar 2 -5
+SellCar 1927 2
+AddCarType 2610 26
+SellCar 1847 23
+AddCarType 1766 5
+MakeComplaint 2786 2 47
+SellCar 3319 10
+GetWorstModels 492
+AddCarType 3244 27
+SellCar 2786 11
+GetWorstModels 517
+MakeComplaint 333 4 33
+SellCar 6695 27
+AddCarType 8621 7
+MakeComplaint -10 23 40
+SellCar 319 12
+SellCar 6 -1
+SellCar 2610 0
+SellCar 319 7
+GetWorstModels 27
+GetWorstModels 516
+MakeComplaint 9155 1 42
+SellCar 8263 1
+MakeComplaint 8263 3 95
+RemoveCarType 8621
+SellCar 1600 7
+SellCar 1766 39
+GetWorstModels 376
+SellCar 6956 5
+RemoveCarType 2610
+SellCar 8118 16
+GetWorstModels 455
+GetBestSellerModelByType 5238
+GetWorstModels 353
+SellCar 1189 2
+SellCar 2543 13
+SellCar 3755 13
+MakeComplaint 2786 2 27
+SellCar 1659 19
+SellCar 2786 10
+GetBestSellerModelByType 0
+SellCar 3755 8
+SellCar 9828 5
+GetWorstModels 112
+AddCarType 319 11
+SellCar 6149 2
+AddCarType 2411 26
+SellCar 2543 3
+SellCar 3244 35
+GetBestSellerModelByType 9155
+MakeComplaint 7116 22 71
+GetWorstModels 95
+GetBestSellerModelByType 0
+MakeComplaint 8263 105 37
+GetBestSellerModelByType 8263
+MakeComplaint 3045 13 84
+SellCar 8118 9
+AddCarType 3630 2
+SellCar 3725 51
+MakeComplaint 8118 16 47
+MakeComplaint 6785 13 14
+AddCarType 7226 11
+GetBestSellerModelByType 0
+AddCarType 2324 25
+MakeComplaint 2786 11 56
+GetBestSellerModelByType 0
+MakeComplaint 6336 8 60
+MakeComplaint 5965 79 29
+AddCarType 8118 24
+MakeComplaint 2543 7 11
+SellCar 5965 0
+SellCar 9972 41
+SellCar 4161 10
+SellCar 6956 8
+GetWorstModels 91
+SellCar 9828 75
+SellCar 2324 22
+GetBestSellerModelByType 0
+AddCarType 2669 1
+SellCar 2324 23
+SellCar 2543 3
+MakeComplaint 6956 4 18
+AddCarType 9166 1
+SellCar 1927 1
+SellCar 9739 9
+SellCar 9166 0
+SellCar 4873 25
+GetWorstModels 520
+GetBestSellerModelByType 0
+SellCar 6219 10
+MakeComplaint 319 7 53
+SellCar 1927 0
+RemoveCarType 904
+SellCar 8994 0
+AddCarType 4347 29
+MakeComplaint 5965 0 59
+SellCar 2593 0
+GetBestSellerModelByType 6785
+SellCar 2246 10
+SellCar 6147 28
+RemoveCarType 319
+SellCar 3 -9
+SellCar 2411 11
+MakeComplaint 4873 25 26
+SellCar 1927 0
+MakeComplaint 9166 0 77
+SellCar 1560 21
+GetWorstModels 524
+GetBestSellerModelByType -4
+MakeComplaint 8994 0 11
+SellCar 8994 0
+MakeComplaint 8118 72 47
+GetWorstModels 120
+MakeComplaint 2593 0 41
+SellCar 333 58
+SellCar 1600 3
+SellCar 4347 23
+GetBestSellerModelByType 9155
+SellCar 2411 21
+SellCar 8263 1
+SellCar 2411 23
+SellCar 9166 0
+AddCarType 5598 10
+SellCar 6583 12
+SellCar 3725 3
+GetWorstModels 91
+GetWorstModels 0
+AddCarType 5 -8
+GetWorstModels 88
+SellCar 6583 49
+AddCarType 2841 28
+MakeComplaint 3755 8 1
+SellCar 4873 20
+SellCar 4347 11
+SellCar 8 -1
+SellCar 7226 6
+SellCar 6219 28
+SellCar 7226 38
+MakeComplaint 7226 6 6
+SellCar 2786 16
+SellCar 2411 25
+SellCar 6956 9
+SellCar 2669 0
+MakeComplaint 3725 3 29
+SellCar 9155 5
+SellCar 9828 1
+MakeComplaint 3755 16 10
+AddCarType 2397 14
+MakeComplaint 7226 6 78
+SellCar -8 11
+AddCarType 9828 15
+RemoveCarType 2786
+SellCar 63 23
+GetBestSellerModelByType 5598
+RemoveCarType 6583
+AddCarType 6260 5
+GetWorstModels 218
+AddCarType 5182 17
+RemoveCarType 4873
+MakeComplaint 2324 22 93
+GetBestSellerModelByType 0
+SellCar 6432 23
+GetWorstModels 307
+RemoveCarType 1766
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+MakeComplaint 8507 29 41
+SellCar 3688 8
+SellCar 6260 3
+MakeComplaint 8994 1 88
+MakeComplaint 7226 6 88
+SellCar 2669 58
+MakeComplaint 3755 16 70
+MakeComplaint 2593 0 19
+GetWorstModels 434
+MakeComplaint 2569 27 7
+AddCarType 9888 18
+SellCar 9155 16
+SellCar 9739 19
+SellCar 3630 46
+SellCar 4347 0
+SellCar 8994 1
+RemoveCarType 1189
+SellCar 1600 12
+MakeComplaint 1600 12 44
+MakeComplaint 8994 0 82
+RemoveCarType 7226
+RemoveCarType 9155
+MakeComplaint 6956 4 12
+AddCarType 7951 29
+SellCar 3230 5
+SellCar 2841 15
+SellCar 4347 26
+SellCar 3630 7
+GetWorstModels 1
+SellCar 5303 29
+GetBestSellerModelByType 0
+SellCar 9828 4
+MakeComplaint 8118 16 85
+SellCar 6219 11
+GetWorstModels 457
+GetWorstModels 466
+GetWorstModels 570
+GetBestSellerModelByType -2
+GetWorstModels 573
+SellCar 4347 17
+MakeComplaint 6956 4 62
+MakeComplaint 8118 16 69
+AddCarType 6508 28
+SellCar 9750 10
+MakeComplaint 3630 7 12
+SellCar -2 18
+AddCarType 1992 10
+AddCarType 2401 20
+AddCarType 5590 16
+SellCar 6260 3
+SellCar 384 15
+MakeComplaint 2804 6 49
+GetBestSellerModelByType 6508
+RemoveCarType 3630
+GetWorstModels 201
+SellCar 1499 54
+GetWorstModels 311
+GetBestSellerModelByType 5590
+GetWorstModels 58
+GetBestSellerModelByType -3
+AddCarType 3263 5
+MakeComplaint 2543 7 83
+SellCar 2864 16
+SellCar 9972 1
+AddCarType 9888 3
+SellCar 2401 2
+GetBestSellerModelByType 3263
+SellCar 9166 31
+RemoveCarType 8118
+AddCarType 9726 8
+SellCar 1600 3
+SellCar 3674 1
+GetBestSellerModelByType 1927
+MakeComplaint 2669 0 89
+SellCar 9 -6
+GetBestSellerModelByType 0
+AddCarType 8381 10
+SellCar 2401 98
+SellCar 3263 75
+GetWorstModels 233
+MakeComplaint 7666 25 60
+SellCar 9739 18
+SellCar 8994 1
+GetWorstModels 617
+SellCar 2401 118
+SellCar 8682 4
+SellCar 1600 68
+AddCarType 4501 14
+SellCar 8263 18
+MakeComplaint 1474 16 75
+SellCar 4501 13
+SellCar 7951 16
+SellCar 2841 0
+SellCar 9888 9
+MakeComplaint 9739 15 68
+MakeComplaint 8994 0 49
+AddCarType 2720 3
+RemoveCarType 7636
+SellCar 3120 1
+SellCar 9310 27
+MakeComplaint 4392 9 96
+SellCar 9828 1
+SellCar 1499 11
+MakeComplaint 1600 7 75
+SellCar 9166 0
+RemoveCarType 2411
+GetWorstModels 610
+RemoveCarType 9828
+RemoveCarType 2401
+GetWorstModels 403
+GetWorstModels 463
+AddCarType 9991 16
+AddCarType 8798 6
+AddCarType 9176 30
+GetWorstModels 449
+AddCarType 576 3
+GetBestSellerModelByType 0
+SellCar 2543 35
+AddCarType 3263 6
+SellCar 5182 44
+GetWorstModels 249
+RemoveCarType 6956
+SellCar 2397 1
+SellCar 6785 6
+SellCar 3244 108
+SellCar 8263 9
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+MakeComplaint 5965 0 89
+SellCar 2397 9
+SellCar 5182 10
+AddCarType 2482 27
+SellCar 3674 47
+AddCarType 1920 2
+SellCar 4338 13
+SellCar 4501 10
+GetBestSellerModelByType 0
+SellCar 5598 7
+GetBestSellerModelByType 0
+MakeComplaint 9739 19 73
+MakeComplaint 5598 7 55
+SellCar 8381 3
+SellCar 3725 67
+SellCar 3263 3
+GetWorstModels 371
+GetWorstModels 238
+MakeComplaint 8994 1 43
+GetBestSellerModelByType 0
+AddCarType 415 16
+SellCar 4501 6
+SellCar 5590 5
+SellCar 415 5
+SellCar 4347 13
+SellCar 6451 14
+MakeComplaint 9166 0 30
+MakeComplaint 9972 2 29
+GetWorstModels 390
+SellCar 6508 12
+AddCarType 6260 23
+SellCar 8263 3
+SellCar 3244 22
+SellCar 2482 92
+MakeComplaint 8263 18 93
+MakeComplaint 7951 16 73
+SellCar 3244 14
+AddCarType 4077 11
+MakeComplaint 3674 1 32
+SellCar -4 2
+SellCar 6508 27
+GetWorstModels 175
+SellCar 5864 17
+SellCar 5335 15
+SellCar 9972 2
+SellCar 1499 21
+SellCar 9726 1
+AddCarType 2841 22
+RemoveCarType 5598
+SellCar 9166 0
+AddCarType 9900 3
+SellCar 2841 112
+SellCar 3674 6
+SellCar 4501 11
+SellCar 3244 18
+SellCar 3674 104
+MakeComplaint 8381 3 67
+GetBestSellerModelByType 3725
+GetBestSellerModelByType 3230
+SellCar 3244 5
+AddCarType 7489 2
+SellCar 7249 28
+MakeComplaint -8 12 67
+AddCarType 5324 16
+GetWorstModels 234
+GetWorstModels 480
+MakeComplaint 9726 1 70
+SellCar 2841 23
+SellCar 3244 24
+SellCar 9888 3
+AddCarType 2812 6
+MakeComplaint 3755 15 26
+GetWorstModels 597
+MakeComplaint 1600 89 74
+MakeComplaint 8396 30 66
+AddCarType 1024 26
+GetBestSellerModelByType 6663
+RemoveCarType 3650
+SellCar 7951 63
+SellCar 1024 14
+AddCarType 8336 12
+SellCar 2397 9
+GetBestSellerModelByType 3644
+AddCarType 1927 7
+SellCar 8263 23
+GetWorstModels -7
+GetWorstModels 735
+AddCarType 4074 8
+SellCar 9739 123
+MakeComplaint 6260 65 42
+SellCar 6508 20
+AddCarType 2334 14
+SellCar 4347 19
+SellCar 2324 1
+SellCar 6508 49
+GetWorstModels 462
+GetWorstModels 148
+SellCar 2482 16
+SellCar 9166 0
+MakeComplaint 9256 15 4
+SellCar 8657 13
+SellCar 4501 0
+SellCar 1927 70
+AddCarType 8381 17
+SellCar 8044 12
+SellCar 9726 52
+SellCar 9972 2
+SellCar 2334 5
+SellCar 4347 2
+SellCar 3244 119
+AddCarType 2533 7
+RemoveCarType 6508
+MakeComplaint 2543 13 4
+MakeComplaint 1600 13 54
+MakeComplaint 7951 16 8
+GetWorstModels 155
+MakeComplaint 5439 19 53
+MakeComplaint 6785 1 44
+SellCar 3159 11
+GetWorstModels 49
+MakeComplaint 647 1 88
+SellCar 2593 81
+AddCarType 6830 14
+MakeComplaint 9888 3 97
+MakeComplaint 6785 6 38
+MakeComplaint 9739 18 60
+SellCar 8798 0
+GetBestSellerModelByType 1600
+SellCar 3230 4
+SellCar 3674 7
+SellCar 1024 24
+SellCar 415 4
+SellCar 9176 29
+SellCar 6260 4
+SellCar 4796 21
+MakeComplaint 6219 10 10
+GetBestSellerModelByType 2593
+SellCar 2324 24
+MakeComplaint 3755 8 20
+SellCar 4429 24
+AddCarType 3446 5
+RemoveCarType 4074
+SellCar 2273 19
+AddCarType 7489 9
+SellCar 8063 7
+MakeComplaint 5590 5 89
+SellCar 1499 28
+SellCar 415 8
+SellCar 5965 0
+GetBestSellerModelByType 0
+MakeComplaint 2669 0 23
+SellCar 782 26
+MakeComplaint 3755 13 32
+AddCarType 2078 6
+AddCarType 1907 1
+SellCar 3230 11
+SellCar 2503 18
+SellCar 1499 107
+SellCar 2223 23
+AddCarType 8412 9
+AddCarType 873 1
+AddCarType -8 20
+SellCar 5965 0
+SellCar 2669 0
+AddCarType -4 13
+SellCar 9991 15
+RemoveCarType 5965
+RemoveCarType 873
+MakeComplaint 3230 5 46
+AddCarType 9 -25
+SellCar 7951 26
+SellCar 1276 26
+MakeComplaint 9739 18 65
+MakeComplaint 2482 16 75
+GetBestSellerModelByType 0
+MakeComplaint 3755 16 51
+SellCar -7 3
+SellCar 7951 27
+SellCar 8263 3
+AddCarType 2482 9
+MakeComplaint 3674 7 95
+MakeComplaint 2841 15 93
+RemoveCarType 4077
+AddCarType 8234 4
+GetBestSellerModelByType 2482
+SellCar 9972 57
+SellCar 2533 6
+AddCarType 7805 30
+MakeComplaint 3263 3 21
+MakeComplaint 1600 7 58
+MakeComplaint 5024 12 1
+MakeComplaint 1600 7 98
+GetBestSellerModelByType 3606
+GetBestSellerModelByType 0
+SellCar 10 -2
+SellCar 333 9
+GetBestSellerModelByType 0
+AddCarType 9839 8
+SellCar 2841 5
+AddCarType 7856 30
+SellCar 9176 8
+MakeComplaint 8994 97 85
+MakeComplaint 9176 29 93
+AddCarType 4626 20
+SellCar 1927 5
+SellCar 9991 13
+AddCarType 8465 24
+RemoveCarType 6785
+MakeComplaint 9166 0 24
+AddCarType 4600 1
+AddCarType 5 10
+AddCarType 2657 1
+AddCarType 1902 29
+SellCar 1600 8
+SellCar 1902 15
+MakeComplaint 9888 9 60
+SellCar 5182 12
+GetWorstModels 892
+SellCar 6830 5
+SellCar 9839 5
+SellCar 7070 3
+MakeComplaint 8798 0 91
+GetBestSellerModelByType 1499
+GetBestSellerModelByType 0
+MakeComplaint 4501 0 45
+GetWorstModels 679
+SellCar 494 21
+MakeComplaint 2324 1 39
+SellCar 8465 19
+MakeComplaint 9991 13 33
+SellCar 10 -3
+GetBestSellerModelByType -10
+SellCar 7805 14
+AddCarType 9387 10
+AddCarType 5758 13
+SellCar 8465 12
+RemoveCarType 9888
+SellCar 2573 19
+GetWorstModels -7
+SellCar 3230 11
+GetBestSellerModelByType 0
+SellCar 1920 1
+SellCar 1920 1
+AddCarType 6306 3
+SellCar 9900 0
+SellCar 2841 3
+SellCar 9343 26
+AddCarType 9991 19
+SellCar 3446 3
+SellCar 1335 18
+GetBestSellerModelByType 2334
+SellCar 8336 2
+MakeComplaint 9166 0 59
+SellCar 3263 3
+GetWorstModels 286
+SellCar 9839 2
+RemoveCarType 2334
+SellCar 2397 11
+GetWorstModels 683
+MakeComplaint 9739 18 51
+SellCar 6830 7
+SellCar 8336 5
+GetBestSellerModelByType 0
+SellCar 2397 12
+SellCar 9387 54
+MakeComplaint 2925 12 18
+MakeComplaint 3446 3 33
+SellCar 1902 28
+AddCarType 8965 17
+GetBestSellerModelByType 7951
+MakeComplaint 9739 19 57
+MakeComplaint 5182 95 14
+SellCar 8178 30
+AddCarType 3359 3
+AddCarType 4997 21
+MakeComplaint 2334 8 28
+SellCar 1902 14
+GetBestSellerModelByType 0
+SellCar 1 -1
+SellCar 275 30
+AddCarType 594 5
+GetWorstModels 929
+SellCar -7 19
+GetBestSellerModelByType 0
+SellCar 8381 5
+MakeComplaint 9900 0 46
+SellCar 2850 30
+RemoveCarType 1607
+RemoveCarType 9991
+RemoveCarType 9176
+MakeComplaint 2593 0 91
+SellCar 8412 3
+GetWorstModels 805
+GetWorstModels 880
+RemoveCarType -3
+GetWorstModels 172
+AddCarType 1555 16
+MakeComplaint 4347 2 100
+GetWorstModels 902
+SellCar 576 2
+GetBestSellerModelByType 4347
+AddCarType 202 8
+GetWorstModels 610
+GetWorstModels 205
+SellCar 202 5
+SellCar 9020 14
+GetWorstModels 61
+MakeComplaint 4347 13 7
+GetBestSellerModelByType 2543
+GetBestSellerModelByType 7489
+SellCar 6277 22
+GetWorstModels 872
+GetBestSellerModelByType 8465
+GetWorstModels 780
+GetWorstModels 22
+RemoveCarType 8043
+MakeComplaint 8412 64 50
+GetBestSellerModelByType 9387
+SellCar 2657 0
+MakeComplaint 8798 0 41
+MakeComplaint 4347 0 12
+GetWorstModels -5
+MakeComplaint 9863 21 96
+MakeComplaint 6994 13 81
+MakeComplaint 1600 8 57
+AddCarType 5602 28
+SellCar -9 16
+SellCar 8994 1
+MakeComplaint 1653 10 51
+SellCar 5675 10
+MakeComplaint 8336 2 5
+SellCar 1066 17
+AddCarType 237 10
+SellCar 415 3
+SellCar 2533 0
+SellCar 1920 1
+SellCar 3230 4
+RemoveCarType 8473
+AddCarType 1054 14
+AddCarType 7376 11
+MakeComplaint 576 2 68
+MakeComplaint 6830 47 96
+RemoveCarType 2198
+SellCar 2533 4
+MakeComplaint 415 5 86
+AddCarType 2779 30
+MakeComplaint 2543 2 91
+MakeComplaint 8381 3 19
+AddCarType 118 29
+MakeComplaint 7951 26 39
+GetWorstModels 1010
+AddCarType 3550 22
+SellCar 4347 26
+SellCar 6237 2
+AddCarType 8606 2
+SellCar 1054 1
+MakeComplaint 1024 14 81
+SellCar 4937 15
+GetBestSellerModelByType 1532
+RemoveCarType 57
+MakeComplaint 136 22 98
+AddCarType -6 5
+MakeComplaint 4347 13 11
+SellCar 9166 68
+AddCarType 1228 26
+GetBestSellerModelByType 0
+AddCarType 5688 3
+SellCar -1 28
+AddCarType 8308 4
+GetWorstModels 1083
+AddCarType 7655 30
+AddCarType 3244 1
+SellCar 8308 3
+SellCar 8412 7
+SellCar 7856 0
+MakeComplaint 333 6 2
+SellCar 2841 25
+SellCar 3263 2
+GetBestSellerModelByType 118
+AddCarType 3914 21
+SellCar 3755 56
+AddCarType 8336 4
+RemoveCarType 7376
+SellCar 2657 0
+AddCarType 12 28
+MakeComplaint 5590 5 85
+AddCarType 2803 2
+MakeComplaint 8263 9 38
+GetBestSellerModelByType 5572
+SellCar 3244 2
+MakeComplaint 8308 3 50
+GetWorstModels 1159
+SellCar -3 28
+GetWorstModels 1162
+RemoveCarType 1600
+SellCar 2397 6
+SellCar 1907 0
+SellCar 2779 16
+SellCar 8336 7
+AddCarType 1474 26
+GetWorstModels 678
+SellCar 711 22
+MakeComplaint 2482 16 93
+SellCar 594 1
+SellCar 2397 11
+MakeComplaint 4347 19 43
+MakeComplaint 3795 26 32
+MakeComplaint 8263 1 86
+SellCar 4997 19
+SellCar 1024 20
+SellCar 3550 14
+GetWorstModels 655
+SellCar 8221 8
+AddCarType 415 17
+GetWorstModels 487
+SellCar 9166 0
+MakeComplaint 202 5 48
+AddCarType 8647 9
+SellCar 2803 0
+GetWorstModels 993
+MakeComplaint 5575 5 33
+GetWorstModels 1124
+AddCarType 468 13
+SellCar 1992 7
+AddCarType 7655 12
+SellCar 2324 11
+MakeComplaint -5 1 26
+MakeComplaint 3230 12 40
+MakeComplaint 3513 29 73
+GetBestSellerModelByType 5688
+SellCar 1555 7
+SellCar 4626 73
+MakeComplaint 5 -2 58
+GetBestSellerModelByType 0
+AddCarType 3215 22
+GetWorstModels 1211
+AddCarType 5972 4
+GetBestSellerModelByType 3660
+AddCarType 249 9
+MakeComplaint 7951 26 68
+SellCar 3725 8
+MakeComplaint 1968 6 19
+GetWorstModels -1
+SellCar 5182 5
+AddCarType 3880 24
+SellCar 12 1
+SellCar 576 1
+SellCar 3244 21
+SellCar 2482 4
+GetBestSellerModelByType 4501
+MakeComplaint -6 18 18
+SellCar 2397 7
+SellCar 12 6
+SellCar 9972 102
+SellCar 4997 5
+MakeComplaint 2841 3 8
+SellCar 2 -1
+RemoveCarType 5826
+AddCarType 8299 18
+AddCarType 130 10
+SellCar 9900 0
+AddCarType 5859 16
+SellCar 1054 7
+MakeComplaint 8994 0 86
+SellCar 2593 83
+SellCar 3384 26
+AddCarType 8336 20
+GetWorstModels 1293
+SellCar 9493 25
+SellCar 5 9
+SellCar -5 29
+AddCarType 7304 6
+MakeComplaint 2593 0 15
+GetWorstModels 352
+SellCar 1927 64
+AddCarType 2669 3
+SellCar 7304 5
+SellCar 1499 12
+MakeComplaint 5590 5 26
+AddCarType 9148 26
+SellCar 1474 13
+SellCar 8234 66
+SellCar 468 8
+MakeComplaint 2779 16 12
+GetBestSellerModelByType 0
+MakeComplaint 3446 3 56
+GetWorstModels 386
+GetWorstModels 371
+GetBestSellerModelByType 1054
+MakeComplaint 2 -4 8
+MakeComplaint 2593 0 41
+MakeComplaint 1907 0 51
+GetWorstModels 1321
+GetBestSellerModelByType 2482
+MakeComplaint 333 9 34
+GetWorstModels 871
+AddCarType 5859 25
+GetWorstModels 1325
+GetWorstModels 507
+MakeComplaint 3230 4 4
+GetBestSellerModelByType 3003
+SellCar 2657 0
+AddCarType 1007 12
+AddCarType 4087 21
+GetWorstModels 1204
+AddCarType 849 8
+AddCarType 8344 15
+MakeComplaint 2669 0 24
+AddCarType 1196 23
+AddCarType 9500 18
+AddCarType 799 24
+SellCar 2812 2
+MakeComplaint 3244 22 12
+SellCar 4600 0
+AddCarType 7400 17
+GetWorstModels 694
+MakeComplaint 4347 0 85
+MakeComplaint 8828 3 32
+SellCar 5 7
+AddCarType 576 17
+SellCar 8465 16
+SellCar 8647 7
+MakeComplaint 1902 28 29
+MakeComplaint 8336 5 89
+MakeComplaint 3446 3 87
+MakeComplaint 2669 0 40
+AddCarType 3565 8
+GetBestSellerModelByType 0
+SellCar 7489 1
+GetBestSellerModelByType 0
+AddCarType 950 10
+SellCar 3215 4
+SellCar 6306 0
+SellCar 2078 4
+SellCar 8234 45
+MakeComplaint 8647 7 34
+SellCar 6260 1
+SellCar 5758 12
+AddCarType 3662 24
+RemoveCarType 3550
+SellCar 5972 103
+SellCar 4087 5
+MakeComplaint 3 -1 34
+SellCar 594 4
+RemoveCarType 7289
+GetBestSellerModelByType 2669
+SellCar 7489 1
+AddCarType 7945 2
+MakeComplaint 2808 10 40
+SellCar 8994 1
+AddCarType 4687 24
+RemoveCarType 1902
+SellCar 817 28
+SellCar 3725 12
+SellCar 5972 3
+MakeComplaint 594 4 83
+SellCar 12 10
+SellCar 1907 0
+GetWorstModels 941
+SellCar 3230 15
+AddCarType 5365 13
+AddCarType 8266 20
+SellCar 5859 4
+MakeComplaint 5758 12 41
+SellCar 6754 8
+RemoveCarType 7856
+SellCar 5324 9
+SellCar 4 -8
+MakeComplaint 9726 1 3
+GetBestSellerModelByType 2717
+MakeComplaint 6219 28 95
+SellCar 2841 5
+AddCarType 1 -7
+MakeComplaint 2533 4 7
+GetWorstModels 1139
+GetWorstModels 1235
+SellCar 5590 0
+SellCar 1555 11
+GetBestSellerModelByType 0
+AddCarType 5820 6
+GetWorstModels 1492
+SellCar 118 13
+SellCar 4600 71
+SellCar 12 11
+SellCar -8 27
+GetBestSellerModelByType -6
+SellCar 3674 5
+AddCarType 198 9
+SellCar 9166 0
+SellCar 1499 28
+SellCar 8412 5
+MakeComplaint 6306 0 23
+MakeComplaint 5758 12 34
+GetBestSellerModelByType 0
+MakeComplaint 2482 4 21
+GetWorstModels 858
+SellCar 7951 20
+SellCar 237 8
+SellCar 849 7
+MakeComplaint 3215 4 88
+MakeComplaint 6056 16 12
+SellCar 5 0
+SellCar 4501 1
+SellCar 202 6
+SellCar 7945 0
+SellCar 1474 23
+MakeComplaint 5182 12 37
+GetBestSellerModelByType 1228
+RemoveCarType 7473
+MakeComplaint 8381 5 47
+SellCar 8 -5
+SellCar 8234 3
+GetWorstModels 1265
+SellCar 5688 0
+SellCar 2533 6
+MakeComplaint 3755 13 83
+SellCar 9805 15
+GetBestSellerModelByType 0
+AddCarType 1813 13
+AddCarType 6219 17
+SellCar 198 5
+MakeComplaint 3263 3 81
+GetWorstModels 623
+SellCar 3662 22
+SellCar 9387 5
+AddCarType 5523 18
+GetWorstModels 1527
+AddCarType 4495 5
+GetWorstModels 1192
+MakeComplaint 9839 5 42
+SellCar 130 4
+SellCar 7590 8
+GetWorstModels 1529
+MakeComplaint 3674 5 20
+GetWorstModels -6
+AddCarType 9055 20
+AddCarType 816 10
+SellCar 849 0
+GetBestSellerModelByType 0
+SellCar 9900 2
+AddCarType 7810 11
+SellCar 1920 0
+AddCarType 7118 23
+AddCarType 3404 20
+MakeComplaint 8647 7 39
+SellCar 130 0
+AddCarType 5688 28
+MakeComplaint 3060 21 96
+SellCar 6260 4
+SellCar 576 0
+SellCar 4087 57
+SellCar 576 2
+MakeComplaint 4501 1 75
+AddCarType 1920 29
+SellCar 8299 12
+SellCar 9148 20
+MakeComplaint 8342 24 95
+SellCar 4997 9
+RemoveCarType 6422
+GetBestSellerModelByType 9754
+SellCar 1228 18
+GetWorstModels 20
+GetWorstModels 459
+AddCarType 2292 20
+SellCar 1575 7
+SellCar 1813 0
+SellCar 7339 2
+SellCar 8730 12
+SellCar 9500 25
+SellCar 3914 5
+SellCar 130 108
+SellCar 6358 7
+SellCar 2482 100
+SellCar 1555 5
+AddCarType 5725 11
+SellCar 3244 94
+SellCar 2720 2
+MakeComplaint 1927 4 81
+SellCar 1228 18
+AddCarType 5044 26
+AddCarType 5808 16
+GetWorstModels 41
+AddCarType 1927 10
+GetBestSellerModelByType 0
+SellCar 8965 69
+RemoveCarType 3230
+SellCar 8603 18
+AddCarType 4872 20
+GetBestSellerModelByType 2669
+RemoveCarType 6306
+AddCarType 6205 13
+GetBestSellerModelByType 9502
+SellCar 950 8
+GetBestSellerModelByType 2293
+SellCar 3725 7
+MakeComplaint 3245 16 53
+AddCarType 903 24
+AddCarType 4626 26
+SellCar 4687 109
+SellCar 7118 16
+SellCar 8606 0
+MakeComplaint 5301 14 51
+SellCar 4087 9
+SellCar 118 15
+GetBestSellerModelByType 0
+MakeComplaint 5324 9 30
+SellCar 9055 105
+SellCar 8266 14
+SellCar 9655 25
+SellCar 3890 2
+SellCar 7304 0
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+AddCarType 1401 30
+SellCar 2533 4
+SellCar 8263 22
+AddCarType 7229 30
+AddCarType 6799 10
+SellCar 7315 22
+GetWorstModels 1089
+SellCar 4988 3
+GetWorstModels -6
+GetWorstModels 1603
+GetWorstModels 1780
+SellCar 4501 1
+SellCar 8412 63
+MakeComplaint 2533 6 51
+GetWorstModels 572
+SellCar 3662 2
+AddCarType 1657 9
+MakeComplaint 2812 2 62
+SellCar 1813 11
+SellCar 6205 5
+MakeComplaint 6830 5 32
+GetBestSellerModelByType 3244
+GetBestSellerModelByType 5
+AddCarType 2495 10
+SellCar 249 7
+MakeComplaint 5009 20 67
+SellCar 9387 0
+MakeComplaint 8381 5 74
+SellCar 3662 7
+AddCarType 3546 28
+SellCar 1401 10
+MakeComplaint 2674 3 91
+AddCarType 3838 11
+AddCarType 6234 6
+GetWorstModels 204
+GetWorstModels 139
+GetWorstModels 1168
+SellCar 2720 0
+GetBestSellerModelByType 2263
+GetBestSellerModelByType 9114
+RemoveCarType 6361
+MakeComplaint 6219 114 72
+MakeComplaint 1555 11 30
+MakeComplaint 3244 22 11
+GetBestSellerModelByType 5207
+SellCar -2 1
+AddCarType 2441 18
+SellCar 3404 92
+MakeComplaint 9739 9 82
+SellCar 594 3
+AddCarType 202 11
+MakeComplaint 2533 6 90
+SellCar 3674 0
+AddCarType 6650 24
+MakeComplaint 1401 10 48
+GetBestSellerModelByType 0
+AddCarType 2293 22
+SellCar 8647 7
+GetWorstModels 1581
+MakeComplaint 1401 10 37
+AddCarType 2545 10
+AddCarType 8358 7
+MakeComplaint 6830 5 27
+SellCar 5602 10
+RemoveCarType 3565
+MakeComplaint 5602 10 12
+SellCar 5859 13
+SellCar 7118 10
+SellCar 3215 16
+GetWorstModels 1934
+GetBestSellerModelByType 0
+AddCarType 5746 15
+SellCar -5 10
+AddCarType 8997 25
+AddCarType 9739 3
+GetBestSellerModelByType 8965
+AddCarType 2282 9
+GetBestSellerModelByType 0
+SellCar 8263 22
+SellCar 2640 7
+SellCar 2803 67
+SellCar 6650 19
+AddCarType 502 5
+AddCarType 6219 9
+SellCar 5820 2
+RemoveCarType 1813
+SellCar 2897 30
+SellCar 8358 6
+GetBestSellerModelByType 8465
+MakeComplaint 2593 0 10
+RemoveCarType 2593
+MakeComplaint 7304 0 64
+SellCar 1196 0
+MakeComplaint 9739 18 4
+MakeComplaint 2803 0 51
+GetBestSellerModelByType 0
+GetWorstModels 1976
+GetBestSellerModelByType 3499
+GetWorstModels 1976
+RemoveCarType 9148
+SellCar 903 5
+MakeComplaint 3384 1 52
+AddCarType -8 4
+SellCar 5590 9
+GetWorstModels 1835
+AddCarType 7042 11
+SellCar 5957 21
+SellCar 2324 7
+SellCar 4687 38
+SellCar 799 15
+MakeComplaint 4495 31 68
+SellCar -7 13
+SellCar 5182 89
+MakeComplaint 2657 0 22
+AddCarType 767 17
+AddCarType 5413 1
+SellCar 2669 0
+SellCar 8266 5
+SellCar 4687 1
+MakeComplaint 3662 7 34
+SellCar 6260 60
+SellCar 576 2
+MakeComplaint 8299 12 50
+GetBestSellerModelByType 5324
+MakeComplaint 2533 0 96
+MakeComplaint 1024 20 10
+SellCar 8344 7
+RemoveCarType 7979
+RemoveCarType 5808
+SellCar -1 5
+AddCarType 2586 17
+GetWorstModels 278
+SellCar -5 25
+SellCar 10 -7
+SellCar 7229 28
+SellCar 4872 14
+GetWorstModels 922
+GetWorstModels 869
+MakeComplaint 3263 3 7
+GetBestSellerModelByType 3914
+AddCarType 3120 14
+SellCar 7805 77
+SellCar 7304 3
+SellCar 4501 13
+SellCar 5688 1
+MakeComplaint 118 15 65
+MakeComplaint 3662 22 89
+SellCar 202 19
+GetWorstModels 729
+SellCar 6205 75
+MakeComplaint 6260 4 24
+SellCar 4687 70
+GetBestSellerModelByType 4347
+SellCar 249 80
+AddCarType 1576 24
+SellCar 5324 4
+RemoveCarType 8647
+MakeComplaint 2324 7 62
+SellCar 5688 2
+AddCarType 863 1
+SellCar 4495 4
+SellCar 9726 7
+MakeComplaint 2397 7 7
+GetWorstModels 83
+MakeComplaint 118 128 97
+MakeComplaint 131 6 95
+GetBestSellerModelByType 0
+MakeComplaint 198 5 70
+GetBestSellerModelByType 9387
+RemoveCarType 5182
+MakeComplaint 2841 3 24
+MakeComplaint 3838 83 40
+GetBestSellerModelByType 6205
+GetBestSellerModelByType 198
+SellCar 5523 5
+SellCar 8358 4
+MakeComplaint 6991 5 95
+SellCar 5602 9
+SellCar 767 17
+SellCar 9166 0
+SellCar 198 4
+GetWorstModels 1154
+MakeComplaint 5688 1 58
+GetBestSellerModelByType 4997
+GetBestSellerModelByType 0
+SellCar 9739 23
+SellCar 468 12
+MakeComplaint 9 -1 4
+AddCarType 877 4
+GetBestSellerModelByType 0
+SellCar 3880 0
+AddCarType 9252 21
+AddCarType 5170 17
+SellCar 8308 2
+MakeComplaint 1555 7 81
+RemoveCarType 816
+GetBestSellerModelByType 5523
+AddCarType 4257 17
+SellCar 2482 12
+MakeComplaint 3386 1 61
+GetBestSellerModelByType 0
+GetWorstModels 1148
+MakeComplaint 8299 12 81
+SellCar 8266 15
+AddCarType 3755 20
+SellCar 4600 0
+SellCar 2282 1
+SellCar 5859 2
+GetWorstModels 133
+SellCar 9954 11
+RemoveCarType 6234
+SellCar 7600 18
+GetWorstModels 1554
+SellCar 9799 28
+SellCar 1920 25
+SellCar 6780 2
+SellCar 8358 2
+SellCar 2586 4
+SellCar 9972 2
+AddCarType 9491 10
+SellCar 8997 117
+SellCar 8234 5
+AddCarType 7603 26
+SellCar 3914 16
+MakeComplaint 3896 15 82
+SellCar 5688 2
+MakeComplaint 12 28 24
+AddCarType 7790 7
+GetBestSellerModelByType 0
+SellCar 8556 1
+SellCar 2657 1
+GetWorstModels 2003
+GetWorstModels 2080
+SellCar 8336 2
+SellCar 8798 3
+GetBestSellerModelByType 8606
+SellCar 3007 21
+SellCar 1641 22
+SellCar 9839 0
+GetBestSellerModelByType 864
+SellCar 130 0
+SellCar 576 0
+GetBestSellerModelByType 0
+SellCar 2292 4
+GetWorstModels 59
+SellCar 4997 17
+GetWorstModels 2083
+AddCarType 8465 11
+SellCar 1576 4
+SellCar 3263 2
+MakeComplaint 9995 6 80
+MakeComplaint 237 8 90
+GetWorstModels 782
+RemoveCarType 2533
+SellCar 333 3
+SellCar 4997 1
+GetBestSellerModelByType 576
+SellCar 2397 0
+AddCarType 3391 25
+MakeComplaint 903 5 14
+SellCar 1024 4
+SellCar 4 -8
+MakeComplaint 12 1 43
+GetWorstModels 1322
+MakeComplaint 0 9 46
+MakeComplaint 9972 1 67
+AddCarType 5507 10
+AddCarType 9739 2
+SellCar 3244 9
+SellCar -10 25
+RemoveCarType 5
+SellCar 3391 24
+SellCar 9726 7
+SellCar 31 2
+SellCar 8965 7
+SellCar 9739 1
+GetBestSellerModelByType 9500
+SellCar 2482 11
+GetWorstModels 1711
+GetWorstModels 1997
+GetWorstModels 494
+GetWorstModels 454
+SellCar 4626 1
+GetBestSellerModelByType 6201
+MakeComplaint 12 1 84
+SellCar 8965 4
+MakeComplaint 5324 9 80
+SellCar 7655 27
+MakeComplaint 863 54 28
+GetWorstModels 1617
+SellCar 202 6
+GetWorstModels 379
+GetBestSellerModelByType 0
+SellCar -3 17
+AddCarType 3451 4
+SellCar 7304 5
+AddCarType 1582 16
+AddCarType 8997 16
+MakeComplaint 9310 30 1
+AddCarType 9317 6
+SellCar 1555 10
+MakeComplaint 2188 20 62
+RemoveCarType 6404
+GetBestSellerModelByType 4997
+SellCar 5859 2
+GetBestSellerModelByType 1907
+AddCarType 3517 20
+SellCar 5859 1
+SellCar 3880 6
+GetWorstModels 819
+GetWorstModels 1987
+RemoveCarType 4286
+AddCarType 6806 29
+GetBestSellerModelByType 0
+SellCar 4257 0
+SellCar 3517 4
+SellCar 8266 0
+MakeComplaint 1576 4 65
+GetBestSellerModelByType 0
+MakeComplaint 5590 5 19
+GetBestSellerModelByType 9252
+AddCarType 2397 19
+AddCarType 4087 19
+MakeComplaint 3880 0 14
+SellCar 3263 2
+SellCar 9317 0
+SellCar 1907 0
+MakeComplaint 118 15 55
+SellCar 4997 14
+GetBestSellerModelByType 6799
+AddCarType 3956 8
+MakeComplaint 7945 0 17
+SellCar 7951 27
+SellCar 1401 25
+SellCar 5413 0
+GetWorstModels 1110
+RemoveCarType 7790
+SellCar -5 9
+SellCar 5725 8
+AddCarType 3529 20
+SellCar 3120 5
+SellCar 767 6
+MakeComplaint 6205 5 81
+MakeComplaint 3517 4 44
+AddCarType 2779 17
+GetWorstModels 1298
+SellCar 1582 46
+GetWorstModels 57
+MakeComplaint 1054 1 70
+RemoveCarType 1582
+GetWorstModels 330
+SellCar 2495 5
+SellCar 4347 3
+GetWorstModels 2135
+MakeComplaint 576 0 8
+SellCar 4087 65
+SellCar 3404 36
+AddCarType 1650 27
+SellCar 767 7
+AddCarType 9911 24
+GetWorstModels 2168
+SellCar 6361 13
+MakeComplaint 3446 3 21
+MakeComplaint 1401 25 87
+AddCarType 7810 15
+GetBestSellerModelByType 0
+SellCar 3675 3
+SellCar 468 11
+MakeComplaint 1927 14 81
+MakeComplaint 9857 30 24
+AddCarType 6987 23
+MakeComplaint 1499 4 58
+SellCar 2292 12
+GetWorstModels 972
+MakeComplaint 6671 10 37
+GetWorstModels 504
+SellCar 5523 7
+GetBestSellerModelByType 0
+SellCar 3 -7
+SellCar 8344 58
+GetBestSellerModelByType 502
+SellCar 12 113
+RemoveCarType 8798
+SellCar -3 21
+GetBestSellerModelByType 2843
+AddCarType 6123 8
+MakeComplaint 6258 23 31
+GetBestSellerModelByType 0
+GetWorstModels 774
+RemoveCarType 468
+GetWorstModels 810
+SellCar 4087 25
+RemoveCarType 8239
+SellCar 2292 6
+MakeComplaint 4151 15 65
+SellCar 2517 6
+MakeComplaint 8465 19 29
+SellCar 3662 19
+MakeComplaint 8336 2 46
+GetWorstModels 2241
+MakeComplaint 8465 102 20
+MakeComplaint 2803 0 95
+SellCar 3880 13
+SellCar 8464 16
+SellCar 4257 7
+GetWorstModels 1426
+AddCarType 9372 16
+GetWorstModels 1632
+GetWorstModels 631
+MakeComplaint 8308 2 16
+SellCar 4087 9
+SellCar 3529 17
+AddCarType 3725 28
+GetBestSellerModelByType 0
+GetWorstModels 1721
+GetBestSellerModelByType 1657
+MakeComplaint 5688 1 37
+AddCarType 9387 6
+MakeComplaint 2779 16 16
+SellCar 6987 18
+AddCarType 7489 6
+SellCar 5688 2
+SellCar 8299 3
+SellCar 1650 4
+MakeComplaint 5590 5 26
+AddCarType 5790 3
+GetWorstModels 1478
+SellCar 1576 12
+SellCar 7063 23
+SellCar 576 1
+SellCar 3914 10
+SellCar 118 17
+SellCar 1181 5
+SellCar 5413 0
+SellCar 2078 4
+AddCarType 4347 28
+SellCar 4050 7
+MakeComplaint 4495 4 70
+SellCar 8412 7
+SellCar -4 15
+SellCar 1024 5
+GetBestSellerModelByType 0
+SellCar 5413 0
+GetBestSellerModelByType 8381
+SellCar 7489 0
+SellCar 3404 12
+MakeComplaint 4966 16 7
+SellCar 2441 5
+GetBestSellerModelByType 0
+AddCarType 514 21
+MakeComplaint 2779 40 3
+MakeComplaint 8358 4 4
+GetWorstModels 2100
+RemoveCarType 576
+AddCarType 4501 15
+RemoveCarType 4495
+SellCar 130 0
+SellCar 4600 0
+MakeComplaint 2482 58 38
+SellCar 5044 18
+AddCarType 5425 2
+AddCarType 5972 12
+SellCar 12 52
+SellCar 1474 19
+SellCar 1196 2
+MakeComplaint 2397 9 80
+GetBestSellerModelByType 0
+MakeComplaint 8381 64 4
+AddCarType 5546 18
+AddCarType 8445 16
+MakeComplaint 9166 0 11
+GetBestSellerModelByType 3120
+AddCarType 863 15
+SellCar 2779 29
+SellCar 3 -10
+MakeComplaint 2657 0 18
+GetWorstModels 1660
+SellCar 7945 30
+SellCar 8308 1
+GetWorstModels 219
+AddCarType 8511 13
+AddCarType 6632 13
+GetWorstModels 1766
+GetWorstModels 815
+MakeComplaint 2339 19 99
+SellCar 3234 28
+SellCar 4600 0
+SellCar 2441 7
+GetBestSellerModelByType 0
+SellCar 9055 1
+MakeComplaint 6205 5 1
+SellCar 130 8
+SellCar 2657 0
+GetBestSellerModelByType 0
+SellCar -1 23
+GetBestSellerModelByType 0
+SellCar 6219 29
+MakeComplaint 2543 13 55
+GetWorstModels 2121
+AddCarType 1576 8
+MakeComplaint 9387 0 19
+AddCarType 8216 22
+GetWorstModels 2353
+AddCarType 7108 18
+GetBestSellerModelByType 2078
+GetWorstModels 2372
+MakeComplaint 950 8 22
+SellCar 7304 49
+SellCar 903 21
+SellCar 4626 15
+SellCar 1907 0
+MakeComplaint 1576 12 62
+SellCar 6434 25
+AddCarType 371 17
+MakeComplaint 9387 5 10
+AddCarType 4885 8
+SellCar 8344 4
+SellCar 1992 5
+SellCar 3244 2
+GetWorstModels 644
+MakeComplaint 130 4 78
+GetWorstModels -4
+GetWorstModels 1440
+MakeComplaint 8949 5 50
+SellCar 4712 21
+MakeComplaint 3914 16 35
+SellCar 9252 15
+SellCar 9317 3
+MakeComplaint 3517 4 65
+MakeComplaint 9387 5 11
+SellCar 799 16
+SellCar 8358 2
+AddCarType 237 24
+SellCar 2586 5
+MakeComplaint 9055 1 52
+SellCar 7489 0
+SellCar 8139 30
+AddCarType 6215 22
+MakeComplaint 5351 30 47
+SellCar 5725 0
+GetWorstModels 881
+AddCarType 9008 11
+AddCarType 2224 26
+RemoveCarType 9055
+RemoveCarType 3914
+AddCarType 7485 5
+SellCar 5924 11
+SellCar 6650 95
+GetBestSellerModelByType 0
+AddCarType 5427 21
+MakeComplaint 799 16 57
+SellCar 5820 3
+MakeComplaint 3725 3 14
+GetWorstModels 1137
+AddCarType 5607 16
+SellCar 8511 11
+RemoveCarType 4677
+SellCar 3517 6
+SellCar 9317 4
+MakeComplaint 2324 43 47
+SellCar 9317 33
+GetBestSellerModelByType 6508
+MakeComplaint 2441 7 64
+MakeComplaint 2948 4 84
+MakeComplaint 4042 15 32
+AddCarType 4990 8
+MakeComplaint 7229 28 33
+MakeComplaint -9 2 62
+SellCar 5820 0
+AddCarType 377 14
+SellCar 1907 0
+MakeComplaint 1401 10 72
+AddCarType 7542 6
+AddCarType 9304 17
+MakeComplaint 8299 12 97
+SellCar 9491 3
+SellCar -3 15
+GetWorstModels 140
+SellCar 1024 12
+RemoveCarType 90
+GetWorstModels 1713
+AddCarType -6 2
+AddCarType 5420 24
+RemoveCarType 8412
+GetBestSellerModelByType 7655
+SellCar 3529 6
+AddCarType 3230 4
+MakeComplaint 249 7 86
+RemoveCarType 8263
+AddCarType 2529 24
+SellCar 4687 23
+AddCarType 5427 14
+AddCarType 2 -20
+SellCar 9166 0
+AddCarType -7 10
+MakeComplaint 5688 1 11
+SellCar 7118 121
+SellCar 333 2
+MakeComplaint 2543 13 55
+MakeComplaint 2657 0 62
+GetBestSellerModelByType 5746
+SellCar 5590 14
+MakeComplaint 5433 30 71
+MakeComplaint 5859 1 73
+GetWorstModels 1065
+SellCar 502 0
+RemoveCarType 9739
+SellCar 8234 9
+AddCarType 1963 9
+SellCar 9468 29
+AddCarType 4646 9
+MakeComplaint 3495 29 7
+GetBestSellerModelByType 0
+SellCar 4872 9
+AddCarType 280 17
+SellCar 799 7
+SellCar -2 2
+SellCar 377 2
+SellCar 7951 3
+MakeComplaint 9134 16 30
+MakeComplaint 7304 0 94
+GetWorstModels 2527
+SellCar 7951 29
+AddCarType 3481 25
+MakeComplaint 3343 13 52
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+SellCar 5365 2
+MakeComplaint 7945 60 47
+MakeComplaint 1927 3 64
+SellCar 202 0
+SellCar 280 5
+MakeComplaint 8299 97 14
+GetWorstModels 1908
+GetBestSellerModelByType 8062
+RemoveCarType 9491
+GetBestSellerModelByType 7951
+SellCar 3880 22
+SellCar 4885 0
+MakeComplaint 1209 9 73
+SellCar 9372 12
+AddCarType 1499 27
+AddCarType 9393 5
+MakeComplaint 7655 27 52
+GetWorstModels 1480
+MakeComplaint 6650 19 38
+AddCarType 7131 1
+SellCar 371 87
+GetWorstModels 1734
+AddCarType 2104 15
+MakeComplaint 1054 46 40
+SellCar 2292 5
+SellCar 6205 1
+SellCar -10 24
+SellCar 2324 18
+GetBestSellerModelByType 0
+SellCar 8511 2
+SellCar 6650 2
+SellCar 2720 1
+MakeComplaint 3215 16 94
+MakeComplaint 3270 26 36
+SellCar -2 1
+MakeComplaint 5820 3 97
+SellCar 4087 7
+SellCar 5324 7
+SellCar 7542 2
+SellCar 5813 12
+RemoveCarType 8445
+SellCar 5602 17
+RemoveCarType 3359
+AddCarType 1039 2
+SellCar 6650 21
+SellCar 2841 19
+RemoveCarType 7178
+SellCar 3120 11
+SellCar 5859 11
+RemoveCarType 6219
+SellCar 5859 8
+SellCar 7489 34
+SellCar 5725 6
+SellCar 1691 24
+SellCar 3215 13
+GetWorstModels 1107
+GetWorstModels 2524
+RemoveCarType 377
+SellCar 2545 5
+RemoveCarType 2669
+SellCar 849 7
+SellCar 7914 8
+SellCar 1024 24
+AddCarType 6066 13
+GetBestSellerModelByType 2020
+RemoveCarType 4501
+MakeComplaint 2586 4 46
+SellCar 3263 1
+SellCar 1657 6
+SellCar 8465 2
+MakeComplaint 415 4 17
+MakeComplaint 9972 70 71
+GetBestSellerModelByType 0
+MakeComplaint 3244 2 95
+AddCarType 2969 12
+MakeComplaint 2324 24 98
+RemoveCarType 8299
+MakeComplaint 9372 12 41
+GetWorstModels 814
+AddCarType 10 -9
+GetWorstModels 1729
+MakeComplaint 9372 12 94
+MakeComplaint -8 28 38
+AddCarType 4041 16
+SellCar 7400 4
+GetBestSellerModelByType 7489
+SellCar 3230 2
+MakeComplaint 2586 5 23
+SellCar 5523 10
+SellCar 7461 27
+RemoveCarType 9726
+SellCar 7042 0
+GetBestSellerModelByType 3694
+GetWorstModels 1852
+GetWorstModels 1798
+GetWorstModels 1255
+SellCar 2803 0
+SellCar 1024 21
+SellCar 2841 6
+RemoveCarType 1482
+GetBestSellerModelByType 2104
+SellCar 9393 3
+AddCarType 7482 26
+MakeComplaint 5427 42 77
+SellCar 1474 86
+MakeComplaint 950 8 22
+SellCar 6859 26
+SellCar 198 4
+SellCar 9166 0
+MakeComplaint 7542 2 57
+SellCar 3446 0
+GetWorstModels 2097
+GetWorstModels 669
+SellCar 5688 0
+SellCar 9622 3
+SellCar 5607 44
+MakeComplaint 8465 78 61
+SellCar 7951 2
+RemoveCarType 249
+GetBestSellerModelByType 2104
+AddCarType 7511 11
+SellCar 3517 3
+AddCarType 5758 27
+SellCar 5013 21
+SellCar 6215 90
+SellCar 5028 26
+GetWorstModels 1933
+SellCar 1657 3
+SellCar 5607 88
+SellCar 3120 1
+MakeComplaint 8994 0 96
+MakeComplaint 7485 11 42
+SellCar 888 27
+SellCar 4347 52
+GetWorstModels 215
+MakeComplaint 202 5 96
+GetBestSellerModelByType 0
+GetWorstModels 2448
+AddCarType 4171 19
+SellCar 6987 70
+MakeComplaint 8994 60 32
+SellCar 8234 2
+GetWorstModels 2553
+GetWorstModels 2063
+MakeComplaint 198 5 95
+SellCar 7945 1
+MakeComplaint 3366 22 22
+MakeComplaint 9972 1 28
+SellCar 3596 16
+MakeComplaint 5044 18 70
+MakeComplaint 5859 4 60
+SellCar 1657 1
+MakeComplaint 9218 7 76
+SellCar 9317 0
+SellCar 4997 0
+MakeComplaint 1927 1 20
+GetBestSellerModelByType 0
+SellCar 2292 2
+AddCarType 8148 13
+SellCar 4646 5
+GetWorstModels 758
+MakeComplaint 1746 21 64
+AddCarType 6875 27
+MakeComplaint 1054 1 12
+SellCar 1 -5
+GetBestSellerModelByType 0
+MakeComplaint 514 51 75
+SellCar -7 25
+SellCar 6875 23
+GetWorstModels -7
+GetBestSellerModelByType 4646
+SellCar 849 7
+AddCarType 3882 4
+MakeComplaint 0 23 18
+SellCar 3244 4
+MakeComplaint 7489 0 2
+SellCar 1650 13
+SellCar 9839 4
+SellCar 118 3
+AddCarType 1425 2
+SellCar 3956 7
+SellCar 5170 12
+AddCarType 7058 1
+GetWorstModels 1307
+GetWorstModels 448
+AddCarType 6536 21
+SellCar 8336 43
+GetWorstModels 1511
+GetWorstModels -10
+RemoveCarType 7511
+SellCar 4087 5
+SellCar 7655 3
+MakeComplaint 280 5 7
+SellCar 9972 85
+SellCar 1564 28
+SellCar 2545 9
+SellCar 3263 0
+GetWorstModels 5
+SellCar 5725 37
+AddCarType 1713 11
+SellCar 8266 0
+SellCar 4885 73
+GetBestSellerModelByType 8997
+SellCar 1992 9
+AddCarType 1436 6
+AddCarType 8445 29
+MakeComplaint 3446 3 93
+RemoveCarType 1992
+GetBestSellerModelByType -1
+MakeComplaint 767 7 23
+SellCar 1555 15
+GetBestSellerModelByType 2779
+MakeComplaint 5859 1 35
+MakeComplaint 7945 0 40
+GetBestSellerModelByType 3404
+SellCar 9972 1
+AddCarType 246 24
+SellCar 8308 1
+SellCar 2078 3
+RemoveCarType 9500
+SellCar 7603 97
+SellCar 863 30
+SellCar 1713 3
+RemoveCarType 3725
+SellCar 333 14
+SellCar 202 4
+SellCar 2812 14
+AddCarType 729 6
+SellCar 8994 1
+GetWorstModels 745
+SellCar 2812 5
+AddCarType 8165 22
+SellCar 6806 17
+GetWorstModels 1175
+GetBestSellerModelByType 2482
+AddCarType 237 8
+SellCar 3404 12
+GetBestSellerModelByType 6260
+SellCar -4 10
+GetBestSellerModelByType 7805
+RemoveCarType 246
+AddCarType 2931 16
+SellCar 9372 13
+SellCar 1196 22
+SellCar 5951 18
+GetWorstModels 2228
+SellCar 1007 4
+SellCar 2561 4
+SellCar 4347 9
+SellCar 1713 5
+AddCarType 8885 13
+AddCarType 3105 25
+MakeComplaint 9804 14 36
+SellCar 7058 0
+SellCar 8994 1
+SellCar 7839 18
+SellCar 3244 20
+GetWorstModels 2367
+AddCarType 4779 5
+GetWorstModels 1697
+GetBestSellerModelByType 0
+MakeComplaint 6205 1 18
+SellCar 2104 12
+RemoveCarType 7603
+GetWorstModels 2254
+AddCarType 9911 10
+GetWorstModels 1222
+SellCar 8148 41
+SellCar 3244 16
+GetWorstModels 2458
+MakeComplaint 9076 3 78
+AddCarType 10 -27
+SellCar 9900 0
+MakeComplaint 1657 42 85
+MakeComplaint 799 7 2
+SellCar 9393 4
+SellCar 1713 49
+GetBestSellerModelByType 8330
+MakeComplaint 9393 3 25
+AddCarType 5460 6
+GetWorstModels 1520
+GetWorstModels 669
+SellCar 2779 1
+GetWorstModels 2681
+SellCar 130 30
+SellCar 6450 3
+MakeComplaint 6332 2 88
+AddCarType 8308 21
+GetBestSellerModelByType 0
+MakeComplaint 9972 54 47
+SellCar 7359 14
+MakeComplaint 2803 0 56
+AddCarType 3830 17
+MakeComplaint 6875 23 30
+SellCar 5460 2
+MakeComplaint 950 8 84
+SellCar 7304 4
+AddCarType 7167 14
+MakeComplaint 9393 4 39
+MakeComplaint 8266 15 91
+GetWorstModels 2716
+GetBestSellerModelByType 130
+MakeComplaint 1585 3 82
+MakeComplaint 8308 1 44
+AddCarType -2 23
+SellCar 5507 9
+RemoveCarType 8606
+AddCarType 5576 26
+SellCar 5427 18
+GetWorstModels 2737
+AddCarType 3486 4
+SellCar 5546 7
+SellCar 5324 14
+MakeComplaint 2841 23 10
+MakeComplaint 5460 2 9
+MakeComplaint 5746 50 86
+SellCar 3 -9
+SellCar 7945 18
+SellCar 6987 22
+RemoveCarType 6512
+GetBestSellerModelByType 2931
+AddCarType 7404 18
+SellCar 1188 21
+SellCar 6923 29
+SellCar 8885 87
+SellCar 3451 3
+GetWorstModels 2540
+MakeComplaint 7945 59 16
+GetWorstModels 2068
+SellCar 2292 6
+SellCar 5324 9
+SellCar 9839 4
+GetBestSellerModelByType 2078
+GetWorstModels 575
+SellCar 1920 0
+AddCarType 3528 27
+SellCar 6650 6
+SellCar 9317 59
+MakeComplaint 2078 4 21
+SellCar 5758 12
+GetBestSellerModelByType 2657
+SellCar 415 4
+SellCar 502 0
+GetBestSellerModelByType 6215
+SellCar 6987 6
+MakeComplaint 8994 0 7
+SellCar 5602 13
+AddCarType 6294 24
+AddCarType 1404 23
+SellCar 5427 17
+GetWorstModels 1623
+SellCar 9482 7
+MakeComplaint 2110 28 40
+SellCar 4853 9
+GetWorstModels 1467
+SellCar 4257 2
+SellCar 2488 15
+GetWorstModels 707
+GetWorstModels 0
+MakeComplaint 5170 25 91
+GetWorstModels 2738
+MakeComplaint 594 55 65
+SellCar 8997 18
+MakeComplaint 7304 0 73
+SellCar 950 60
+SellCar 333 9
+MakeComplaint 5413 0 93
+SellCar 8148 2
+SellCar 849 7
+GetBestSellerModelByType 12
+SellCar 4 -4
+SellCar 2224 24
+GetWorstModels 1048
+SellCar 1920 0
+AddCarType 3864 1
+SellCar 8465 2
+SellCar 4600 0
+SellCar 3880 17
+RemoveCarType 6260
+MakeComplaint 3391 24 93
+GetWorstModels 2629
+SellCar 6424 13
+SellCar 7108 77
+MakeComplaint 8165 38 28
+MakeComplaint -10 23 93
+MakeComplaint 3230 2 27
+SellCar 9372 13
+AddCarType 7542 23
+MakeComplaint 2825 1 97
+SellCar 1054 13
+AddCarType 1097 5
+GetBestSellerModelByType 2466
+SellCar 8381 0
+SellCar 5324 5
+SellCar 5523 6
+MakeComplaint 280 5 37
+SellCar 767 13
+SellCar 1097 4
+SellCar 3956 53
+SellCar 5427 14
+GetWorstModels 122
+AddCarType 7555 3
+GetBestSellerModelByType 9252
+RemoveCarType 9277
+SellCar 7810 0
+GetBestSellerModelByType 7397
+MakeComplaint 3880 17 12
+GetWorstModels 432
+GetBestSellerModelByType 0
+MakeComplaint 8445 96 24
+SellCar 7304 3
+MakeComplaint 4087 7 58
+GetWorstModels -7
+AddCarType 2010 8
+GetWorstModels 2345
+SellCar 7655 17
+SellCar 5607 8
+GetBestSellerModelByType 3880
+MakeComplaint 7917 17 46
+MakeComplaint 7229 28 77
+MakeComplaint 1907 0 64
+MakeComplaint 5859 1 72
+RemoveCarType 9972
+SellCar 6799 4
+SellCar 3969 1
+MakeComplaint 3956 18 28
+MakeComplaint 415 5 72
+SellCar 8965 58
+SellCar 1650 14
+MakeComplaint 6875 23 45
+AddCarType 4364 20
+GetBestSellerModelByType 0
+SellCar 2720 0
+SellCar 7167 30
+AddCarType 5025 30
+GetWorstModels 898
+SellCar 3882 2
+GetBestSellerModelByType 0
+MakeComplaint 3755 13 10
+MakeComplaint 1381 10 62
+AddCarType 3112 30
+AddCarType 2953 8
+MakeComplaint 7655 3 64
+SellCar 4990 2
+MakeComplaint 9253 1 2
+GetWorstModels 800
+SellCar 2841 2
+SellCar 6066 3
+RemoveCarType 8344
+MakeComplaint 6830 7 4
+SellCar 5025 9
+GetBestSellerModelByType -8
+SellCar 1216 15
+SellCar 6820 15
+MakeComplaint 3486 19 79
+SellCar 1097 4
+SellCar 5 -5
+RemoveCarType 6536
+SellCar 6875 12
+SellCar 2324 6
+GetWorstModels 753
+AddCarType 8732 20
+SellCar 514 16
+MakeComplaint 3244 24 95
+MakeComplaint 6875 12 80
+GetWorstModels 2711
+SellCar 2779 26
+MakeComplaint 8880 3 74
+SellCar 4779 4
+AddCarType 8308 27
+MakeComplaint 5758 12 24
+GetWorstModels 1821
+GetBestSellerModelByType 0
+SellCar 2580 6
+AddCarType 5113 23
+AddCarType 849 3
+MakeComplaint 7655 17 17
+SellCar 2969 0
+SellCar 2282 6
+GetWorstModels 1658
+GetWorstModels 1885
+AddCarType 6861 6
+SellCar 863 85
+GetWorstModels 152
+SellCar 7125 4
+GetBestSellerModelByType 4687
+MakeComplaint 2803 0 68
+SellCar 9169 28
+GetBestSellerModelByType 2657
+SellCar 4171 11
+GetBestSellerModelByType 8358
+SellCar 7167 9
+MakeComplaint 6000 15 71
+SellCar 8885 6
+MakeComplaint 8234 2 48
+SellCar 7304 3
+AddCarType 1474 9
+SellCar 1474 80
+SellCar 7118 19
+SellCar 2495 9
+MakeComplaint 5413 0 92
+GetWorstModels 2466
+SellCar 8148 61
+MakeComplaint -4 27 8
+SellCar 3481 13
+GetWorstModels 963
+MakeComplaint -6 17 18
+SellCar 284 15
+MakeComplaint 6861 80 93
+SellCar 4680 24
+AddCarType 1070 11
+SellCar 6806 27
+MakeComplaint 3893 15 11
+SellCar 3755 9
+SellCar 9774 23
+GetWorstModels 2228
+SellCar 9166 0
+AddCarType 4865 5
+SellCar 6450 22
+AddCarType 2803 12
+MakeComplaint 237 8 20
+MakeComplaint 2657 0 51
+SellCar 5523 0
+GetWorstModels 2036
+SellCar 2545 8
+MakeComplaint 2545 28 3
+MakeComplaint 6123 24 13
+MakeComplaint 280 5 6
+RemoveCarType 333
+GetBestSellerModelByType 7083
+SellCar 4990 7
+SellCar 5025 0
+SellCar 5667 30
+GetWorstModels 285
+MakeComplaint 4600 0 58
+SellCar 1054 6
+SellCar 8381 5
+GetWorstModels 2350
+MakeComplaint 2032 21 77
+AddCarType 902 12
+SellCar 5025 13
+RemoveCarType 1779
+SellCar 6294 7
+SellCar 4872 7
+AddCarType 7713 3
+GetWorstModels 1830
+SellCar 5576 11
+SellCar 4997 12
+SellCar 6875 18
+RemoveCarType 3880
+AddCarType 3883 19
+GetBestSellerModelByType -10
+AddCarType 6 0
+RemoveCarType 7304
+MakeComplaint 1054 7 46
+SellCar 8165 10
+MakeComplaint 3244 24 59
+GetBestSellerModelByType 0
+SellCar 7058 0
+MakeComplaint 4997 12 63
+AddCarType 3108 7
+SellCar 9393 2
+MakeComplaint 6987 6 12
+MakeComplaint 1054 1 50
+AddCarType 3270 18
+AddCarType 4155 15
+MakeComplaint 4239 26 62
+MakeComplaint 3120 11 82
+SellCar 2293 9
+MakeComplaint 8465 16 48
+MakeComplaint 5486 12 21
+RemoveCarType 2545
+SellCar 8266 6
+SellCar 6123 5
+SellCar 2397 2
+GetBestSellerModelByType 0
+SellCar -10 17
+SellCar 502 2
+SellCar 7131 0
+GetWorstModels 599
+MakeComplaint 1474 19 84
+GetWorstModels 1848
+AddCarType 6578 12
+RemoveCarType -10
+GetBestSellerModelByType 5546
+SellCar -1 2
+SellCar 1054 0
+AddCarType 4517 10
+SellCar 6861 1
+SellCar 6632 2
+SellCar 4646 16
+SellCar 7026 2
+AddCarType 1982 29
+AddCarType 672 8
+AddCarType 1704 22
+SellCar 3864 0
+SellCar 3838 9
+SellCar 8336 0
+MakeComplaint -9 18 67
+SellCar 1907 0
+MakeComplaint 5170 12 91
+SellCar -6 12
+AddCarType 8306 4
+SellCar 8965 2
+SellCar 3662 20
+MakeComplaint 1 -9 29
+SellCar 1907 0
+SellCar 8606 7
+SellCar 3296 29
+GetBestSellerModelByType 0
+GetWorstModels 163
+MakeComplaint 1289 13 24
+SellCar 1991 7
+SellCar 1401 3
+GetWorstModels 2362
+GetBestSellerModelByType 9734
+GetBestSellerModelByType 1650
+MakeComplaint 1927 2 36
+MakeComplaint 1054 13 73
+SellCar 118 20
+SellCar 8308 2
+MakeComplaint 7805 14 14
+AddCarType 5366 18
+SellCar 8962 19
+SellCar 6830 12
+SellCar 8445 23
+SellCar 4517 4
+GetWorstModels 3083
+GetBestSellerModelByType 0
+SellCar 3956 6
+MakeComplaint 9839 5 33
+SellCar 6215 11
+GetBestSellerModelByType 0
+GetBestSellerModelByType 0
+MakeComplaint 3546 57 11
+MakeComplaint 3244 20 20
+SellCar 1054 12
+SellCar 1228 8
+SellCar 3864 0
+SellCar 4885 0
+AddCarType 919 29
+AddCarType 5546 3
+SellCar 6524 17
+SellCar 3404 17
+SellCar 4997 17
+SellCar 2529 18
+SellCar 9393 2
+SellCar 4087 17
+SellCar 9075 27
+SellCar 8994 78
+AddCarType 1557 13
+GetBestSellerModelByType 9393
+GetBestSellerModelByType 5602
+AddCarType 4712 30
+MakeComplaint 7065 1 61
+SellCar 321 12
+SellCar 266 18
+SellCar 3476 5
+MakeComplaint 7167 9 92
+GetBestSellerModelByType 0
+MakeComplaint 7945 83 60
+SellCar 130 109
+GetBestSellerModelByType 6948
+SellCar -8 9
+MakeComplaint 4087 17 57
+GetBestSellerModelByType 8994
+SellCar 9252 82
+SellCar -3 12
+SellCar 3486 1
+SellCar 7058 0
+MakeComplaint 1054 12 65
+GetBestSellerModelByType 1557
+MakeComplaint 8745 22 95
+MakeComplaint 6306 27 14
+AddCarType 3093 25
+MakeComplaint -3 23 37
+AddCarType 1545 25
+SellCar 5820 0
+AddCarType 3397 10
+SellCar 202 4
+SellCar 1228 14
+AddCarType 2749 16
+GetBestSellerModelByType 4705
+MakeComplaint 5688 1 6
+SellCar 5820 3
+GetBestSellerModelByType 5790
+SellCar 8465 80
+MakeComplaint 3956 6 33
+MakeComplaint 1573 7 66
+SellCar 514 9
+SellCar 877 104
+SellCar 535 27
+MakeComplaint 3662 7 90
+SellCar 10 -6
+SellCar 6934 25
+GetWorstModels 830
+SellCar 1555 78
+SellCar 5460 5
+AddCarType 2339 16
+RemoveCarType 4865
+GetBestSellerModelByType 0
+AddCarType 9387 22
+SellCar 4885 4
+GetWorstModels 3236
+SellCar 6891 18
+GetBestSellerModelByType 2779
+SellCar 5180 14
+SellCar 1228 5
+AddCarType 1849 7
+SellCar 2 -9
+GetBestSellerModelByType 0
+SellCar 3517 3
+SellCar 5413 83
+GetBestSellerModelByType 1425
+GetWorstModels 1263
+MakeComplaint 1704 116 85
+SellCar 2224 15
+MakeComplaint 4872 9 2
+SellCar 6785 11
+Quit

@@ -1,0 +1,298 @@
+init done.
+SellCar: INVALID_INPUT
+SellCar: INVALID_INPUT
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+AddCarType: FAILURE
+AddCarType: FAILURE
+RemoveCarType: SUCCESS
+MakeComplaint: FAILURE
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+4573	|	0
+4573	|	1
+4573	|	2
+4573	|	3
+4573	|	4
+4573	|	5
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+GetBestSellerModelByType: 2
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1654	|	0
+1654	|	1
+1654	|	2
+1654	|	3
+1654	|	4
+1654	|	5
+1654	|	6
+4573	|	0
+4573	|	1
+4573	|	3
+4573	|	4
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+5249	|	4
+5249	|	5
+5249	|	6
+5249	|	7
+5249	|	8
+5249	|	9
+5249	|	10
+5249	|	11
+5249	|	12
+5249	|	13
+5249	|	14
+5249	|	15
+5249	|	16
+5249	|	17
+5249	|	18
+5411	|	0
+5411	|	1
+5411	|	2
+5411	|	3
+5411	|	4
+5411	|	5
+5411	|	6
+5411	|	7
+5411	|	8
+6644	|	0
+6644	|	1
+6644	|	2
+6644	|	3
+6644	|	4
+6644	|	5
+6644	|	6
+6644	|	7
+6644	|	8
+6644	|	9
+6644	|	10
+6644	|	11
+6644	|	12
+6644	|	13
+6644	|	14
+6644	|	15
+6644	|	16
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: FAILURE
+SellCar: FAILURE
+RemoveCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1562	|	0
+1654	|	0
+1654	|	2
+1654	|	3
+1654	|	4
+1654	|	5
+1654	|	6
+4573	|	0
+4573	|	1
+4573	|	3
+4573	|	4
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+5249	|	4
+5249	|	5
+5249	|	6
+5249	|	7
+5249	|	8
+5249	|	10
+5249	|	11
+5249	|	12
+5249	|	13
+5249	|	14
+5249	|	15
+5249	|	16
+5249	|	17
+5249	|	18
+5411	|	0
+5411	|	1
+5411	|	2
+5411	|	3
+5411	|	5
+5411	|	6
+5411	|	7
+5411	|	8
+6644	|	0
+6644	|	1
+6644	|	2
+6644	|	3
+6644	|	4
+6644	|	5
+6644	|	6
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: INVALID_INPUT
+AddCarType: FAILURE
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+1654	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+--Start of worst models--
+CarType	|	Model
+1654	|	0
+1654	|	2
+1654	|	3
+1654	|	4
+1654	|	5
+1654	|	6
+4573	|	0
+4573	|	1
+4573	|	3
+4573	|	4
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+5249	|	4
+5249	|	5
+5249	|	6
+5249	|	7
+5249	|	10
+5249	|	11
+5249	|	12
+5249	|	13
+5249	|	14
+5249	|	15
+5249	|	16
+5249	|	17
+5249	|	18
+5411	|	0
+5411	|	1
+5411	|	2
+5411	|	3
+5411	|	5
+5411	|	6
+5411	|	7
+5411	|	8
+5640	|	0
+5640	|	1
+5640	|	2
+5640	|	3
+5640	|	4
+5640	|	5
+6644	|	0
+6644	|	1
+6644	|	2
+6644	|	3
+6644	|	5
+6644	|	6
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: FAILURE
+AddCarType: FAILURE
+SellCar: SUCCESS
+AddCarType: FAILURE
+GetWorstModels: INVALID_INPUT
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: FAILURE
+SellCar: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1654	|	0
+1654	|	2
+1654	|	3
+1654	|	5
+1654	|	6
+4573	|	0
+4573	|	1
+4573	|	3
+4573	|	4
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+5249	|	4
+5249	|	5
+5249	|	6
+5249	|	7
+5249	|	10
+5249	|	11
+5249	|	12
+5249	|	13
+5249	|	14
+5249	|	15
+5249	|	16
+5249	|	17
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1654	|	0
+1654	|	2
+1654	|	3
+1654	|	5
+4573	|	0
+4573	|	1
+4573	|	3
+4573	|	4
+5249	|	0
+5249	|	1
+5249	|	2
+5249	|	3
+5249	|	4
+5249	|	5
+5249	|	6
+5249	|	7
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 4
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: INVALID_INPUT
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+quit done.

@@ -1,0 +1,669 @@
+init done.
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+GetWorstModels: FAILURE
+--Start of worst models--
+CarType	|	Model
+508	|	0
+508	|	1
+508	|	2
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+3113	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+AddCarType: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+508	|	0
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	0
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: FAILURE
+SellCar: SUCCESS
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+3113	|	3
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	0
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	21
+2977	|	22
+2977	|	23
+3113	|	0
+3113	|	1
+3113	|	2
+3113	|	4
+3113	|	5
+3113	|	6
+3113	|	8
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+5724	|	8
+5724	|	9
+5724	|	10
+5724	|	11
+5724	|	12
+5724	|	13
+5724	|	14
+5724	|	15
+5724	|	16
+5724	|	17
+5724	|	18
+508	|	2
+508	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+3113	|	3
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	0
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+3113	|	0
+3113	|	1
+3113	|	2
+3113	|	4
+3113	|	5
+3113	|	6
+3113	|	8
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+--End of worst models--
+GetWorstModels: SUCCESS
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 0
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+5724	|	8
+5724	|	9
+5724	|	10
+5724	|	11
+5724	|	12
+5724	|	13
+5724	|	14
+5724	|	15
+5724	|	16
+5724	|	17
+5724	|	18
+8655	|	0
+8655	|	1
+8655	|	2
+8655	|	3
+8655	|	4
+8655	|	5
+8655	|	6
+8655	|	7
+8655	|	8
+8655	|	9
+8655	|	10
+8655	|	11
+8655	|	12
+8655	|	13
+8655	|	14
+8655	|	15
+8655	|	16
+8655	|	17
+8655	|	18
+8655	|	19
+8655	|	20
+8655	|	21
+8655	|	22
+8655	|	23
+8655	|	24
+8655	|	25
+8655	|	26
+8655	|	27
+8655	|	28
+508	|	2
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: FAILURE
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 0
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: FAILURE
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+GetBestSellerModelByType: 0
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	1
+2977	|	2
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+5724	|	8
+5724	|	9
+5724	|	10
+5724	|	11
+5724	|	12
+5724	|	13
+5724	|	14
+5724	|	15
+5724	|	16
+5724	|	18
+8462	|	1
+8655	|	1
+8655	|	2
+8655	|	3
+8655	|	4
+8655	|	5
+8655	|	6
+8655	|	7
+8655	|	8
+8655	|	9
+8655	|	10
+8655	|	11
+8655	|	12
+8655	|	13
+8655	|	14
+8655	|	15
+8655	|	16
+8655	|	17
+8655	|	18
+8655	|	19
+8655	|	20
+8655	|	21
+8655	|	22
+8655	|	23
+8655	|	24
+8655	|	25
+8655	|	26
+8655	|	27
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 0
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	9
+508	|	10
+508	|	11
+2977	|	1
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+5724	|	8
+5724	|	9
+5724	|	10
+5724	|	11
+5724	|	12
+5724	|	13
+5724	|	14
+5724	|	15
+5724	|	16
+5724	|	18
+7274	|	0
+7274	|	1
+8655	|	1
+8655	|	2
+8655	|	3
+8655	|	4
+8655	|	5
+8655	|	6
+8655	|	7
+8655	|	8
+8655	|	9
+8655	|	10
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	10
+508	|	11
+2977	|	1
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+5724	|	0
+5724	|	1
+5724	|	2
+5724	|	3
+5724	|	4
+5724	|	5
+5724	|	6
+5724	|	7
+5724	|	8
+5724	|	9
+5724	|	10
+5724	|	11
+5724	|	12
+5724	|	13
+5724	|	14
+5724	|	15
+5724	|	16
+5724	|	18
+7274	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+RemoveCarType: SUCCESS
+GetBestSellerModelByType: 0
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: INVALID_INPUT
+GetBestSellerModelByType: 0
+SellCar: INVALID_INPUT
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	1
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	10
+508	|	11
+2977	|	1
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+RemoveCarType: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	10
+508	|	11
+2977	|	1
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+4165	|	0
+4165	|	1
+4165	|	2
+4165	|	3
+4165	|	4
+4165	|	5
+4165	|	6
+4165	|	7
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+508	|	3
+508	|	4
+508	|	5
+508	|	6
+508	|	7
+508	|	8
+508	|	10
+508	|	11
+2977	|	1
+2977	|	3
+2977	|	4
+2977	|	5
+2977	|	6
+2977	|	7
+2977	|	8
+2977	|	9
+2977	|	10
+2977	|	11
+2977	|	12
+2977	|	13
+2977	|	14
+2977	|	15
+2977	|	16
+2977	|	17
+2977	|	18
+2977	|	19
+2977	|	20
+2977	|	22
+2977	|	23
+4165	|	0
+4165	|	1
+4165	|	2
+4165	|	3
+4165	|	4
+4165	|	5
+4165	|	6
+4165	|	7
+4165	|	8
+4165	|	9
+4165	|	10
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+AddCarType: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+quit done.

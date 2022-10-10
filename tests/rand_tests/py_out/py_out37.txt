@@ -1,0 +1,3 @@
+init done.
+GetBestSellerModelByType: FAILURE
+quit done.

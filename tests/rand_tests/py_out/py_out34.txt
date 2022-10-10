@@ -1,0 +1,146 @@
+init done.
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+MakeComplaint: INVALID_INPUT
+SellCar: SUCCESS
+SellCar: FAILURE
+RemoveCarType: SUCCESS
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+GetBestSellerModelByType: 12
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 0
+--Start of worst models--
+CarType	|	Model
+557	|	0
+557	|	1
+557	|	2
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+557	|	1
+557	|	2
+557	|	3
+557	|	4
+557	|	5
+557	|	6
+557	|	7
+557	|	8
+557	|	9
+557	|	10
+557	|	11
+557	|	13
+557	|	14
+557	|	15
+557	|	16
+3798	|	0
+3798	|	1
+3798	|	2
+3798	|	3
+3798	|	4
+3798	|	5
+3798	|	6
+3798	|	7
+3798	|	8
+3798	|	9
+3798	|	10
+3798	|	11
+3798	|	12
+3798	|	13
+3798	|	14
+3798	|	15
+4650	|	0
+4650	|	1
+4650	|	2
+4650	|	3
+4650	|	4
+4650	|	5
+4650	|	6
+4650	|	7
+4650	|	8
+4650	|	9
+4650	|	10
+4650	|	11
+4650	|	12
+4650	|	14
+5528	|	1
+5528	|	2
+5528	|	3
+5528	|	4
+5528	|	5
+5528	|	6
+5528	|	7
+5528	|	8
+5528	|	9
+5528	|	10
+5528	|	11
+5528	|	12
+5528	|	13
+5528	|	14
+5528	|	15
+6504	|	0
+6504	|	1
+6504	|	2
+6504	|	3
+6504	|	4
+6504	|	5
+6504	|	6
+6504	|	7
+6504	|	8
+6504	|	9
+7067	|	0
+7067	|	1
+7067	|	2
+7067	|	3
+7067	|	4
+7067	|	5
+7067	|	6
+7067	|	7
+7067	|	8
+7067	|	9
+7067	|	10
+7067	|	11
+7067	|	13
+8067	|	0
+8067	|	1
+8067	|	2
+8067	|	4
+8067	|	5
+8067	|	6
+8067	|	8
+8067	|	9
+8848	|	0
+8848	|	1
+8848	|	2
+8848	|	4
+8848	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+quit done.

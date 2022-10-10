@@ -1,0 +1,19 @@
+init done.
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: FAILURE
+AddCarType: INVALID_INPUT
+RemoveCarType: SUCCESS
+RemoveCarType: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 1
+GetWorstModels: SUCCESS
+CarType	|	Model
+10	|	2
+10	|	0
+10	|	1
+--End of worst types--
+quit done.

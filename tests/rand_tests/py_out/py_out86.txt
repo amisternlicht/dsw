@@ -1,0 +1,98 @@
+init done.
+AddCarType: INVALID_INPUT
+GetWorstModels: INVALID_INPUT
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+2343	|	0
+4703	|	0
+4703	|	1
+4703	|	2
+4703	|	3
+4703	|	4
+4703	|	5
+4703	|	6
+4703	|	7
+4703	|	8
+4703	|	9
+4703	|	10
+6516	|	0
+6516	|	1
+6516	|	2
+6516	|	3
+6516	|	4
+6516	|	5
+6516	|	6
+6516	|	7
+6516	|	8
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1938	|	0
+1938	|	1
+1938	|	2
+1938	|	3
+1938	|	4
+1938	|	5
+1938	|	6
+1938	|	7
+1938	|	8
+1938	|	9
+1938	|	10
+1938	|	11
+1938	|	12
+1938	|	13
+1938	|	14
+1938	|	15
+1938	|	16
+1938	|	17
+2343	|	0
+4703	|	0
+4703	|	1
+4703	|	2
+4703	|	3
+4703	|	4
+4703	|	5
+4703	|	6
+4703	|	7
+4703	|	8
+4703	|	9
+4703	|	10
+6516	|	0
+6516	|	1
+6516	|	2
+6516	|	3
+6516	|	4
+6516	|	5
+6516	|	6
+6516	|	7
+6516	|	8
+6516	|	9
+6516	|	10
+6516	|	11
+6516	|	13
+6516	|	14
+6516	|	15
+6516	|	16
+6516	|	17
+6516	|	18
+6516	|	19
+6516	|	20
+6516	|	21
+6516	|	22
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+GetWorstModels: FAILURE
+quit done.

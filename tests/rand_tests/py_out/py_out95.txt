@@ -1,0 +1,490 @@
+init done.
+RemoveCarType: INVALID_INPUT
+SellCar: INVALID_INPUT
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	4
+4578	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+AddCarType: FAILURE
+MakeComplaint: FAILURE
+AddCarType: SUCCESS
+RemoveCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+MakeComplaint: INVALID_INPUT
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+AddCarType: FAILURE
+--Start of worst models--
+CarType	|	Model
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	4
+4578	|	5
+4578	|	6
+4578	|	7
+4578	|	8
+4578	|	9
+4578	|	10
+4578	|	11
+4578	|	12
+4578	|	13
+6071	|	0
+6071	|	1
+6071	|	2
+6071	|	3
+6071	|	4
+6071	|	5
+6071	|	6
+6071	|	7
+6071	|	8
+6071	|	9
+6071	|	10
+6071	|	11
+6071	|	12
+6071	|	13
+6071	|	14
+6071	|	15
+6071	|	16
+6071	|	17
+6071	|	18
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: FAILURE
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+RemoveCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	4
+4578	|	5
+4578	|	6
+4578	|	7
+4578	|	8
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 0
+RemoveCarType: FAILURE
+MakeComplaint: INVALID_INPUT
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: INVALID_INPUT
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+876	|	1
+876	|	2
+876	|	4
+876	|	5
+876	|	6
+876	|	7
+876	|	8
+876	|	9
+876	|	10
+876	|	11
+876	|	12
+876	|	13
+876	|	14
+876	|	15
+876	|	16
+876	|	17
+876	|	18
+876	|	19
+876	|	20
+876	|	21
+876	|	22
+876	|	23
+876	|	24
+876	|	25
+876	|	27
+876	|	28
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	4
+4578	|	5
+4578	|	6
+4578	|	7
+4578	|	8
+4578	|	9
+4578	|	10
+4578	|	11
+4578	|	12
+4578	|	13
+4813	|	0
+4813	|	1
+4813	|	2
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 3
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+876	|	1
+876	|	2
+876	|	4
+876	|	5
+876	|	6
+876	|	7
+876	|	8
+876	|	9
+876	|	10
+876	|	11
+876	|	12
+876	|	13
+876	|	14
+876	|	15
+876	|	16
+876	|	17
+876	|	18
+876	|	19
+876	|	20
+876	|	21
+876	|	22
+876	|	23
+876	|	24
+876	|	25
+876	|	27
+876	|	28
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	4
+4578	|	5
+4578	|	6
+4578	|	7
+4578	|	8
+4578	|	9
+4578	|	10
+4578	|	11
+4578	|	12
+4578	|	13
+4813	|	0
+4813	|	1
+4813	|	2
+4813	|	4
+4813	|	5
+4813	|	6
+4813	|	7
+4813	|	8
+4813	|	9
+4813	|	10
+4813	|	11
+4813	|	12
+4813	|	13
+4813	|	14
+4813	|	15
+4813	|	16
+4813	|	17
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+876	|	1
+876	|	2
+876	|	4
+876	|	5
+876	|	6
+876	|	7
+876	|	8
+876	|	9
+876	|	10
+876	|	11
+876	|	12
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+876	|	1
+876	|	2
+876	|	4
+876	|	5
+876	|	6
+876	|	7
+876	|	8
+876	|	9
+876	|	10
+876	|	11
+876	|	12
+876	|	13
+876	|	14
+876	|	15
+876	|	16
+876	|	17
+876	|	18
+876	|	19
+876	|	20
+876	|	21
+876	|	22
+876	|	23
+876	|	24
+876	|	25
+876	|	27
+876	|	28
+4578	|	0
+4578	|	1
+4578	|	2
+4578	|	3
+4578	|	5
+4578	|	6
+4578	|	7
+4578	|	8
+4578	|	9
+4578	|	10
+4578	|	11
+4578	|	12
+4578	|	13
+4813	|	0
+4813	|	1
+4813	|	2
+4813	|	4
+4813	|	5
+4813	|	6
+4813	|	7
+4813	|	8
+4813	|	9
+4813	|	10
+4813	|	11
+4813	|	12
+4813	|	13
+4813	|	14
+4813	|	15
+4813	|	16
+4813	|	17
+4813	|	18
+4813	|	19
+4813	|	20
+4813	|	21
+4813	|	22
+4813	|	23
+4813	|	24
+4813	|	25
+--End of worst models--
+GetWorstModels: SUCCESS
+GetWorstModels: INVALID_INPUT
+AddCarType: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+876	|	0
+876	|	1
+876	|	2
+876	|	4
+876	|	5
+876	|	6
+876	|	7
+876	|	8
+876	|	9
+876	|	10
+876	|	11
+876	|	12
+876	|	13
+876	|	14
+876	|	15
+876	|	16
+876	|	17
+876	|	18
+876	|	19
+876	|	20
+876	|	21
+876	|	22
+876	|	23
+876	|	24
+876	|	25
+876	|	27
+876	|	28
+4617	|	0
+4617	|	1
+4617	|	2
+4617	|	3
+4617	|	4
+4617	|	5
+4617	|	6
+4617	|	7
+4617	|	8
+4813	|	0
+4813	|	1
+4813	|	2
+4813	|	4
+4813	|	5
+4813	|	6
+4813	|	7
+4813	|	8
+4813	|	9
+4813	|	10
+4813	|	11
+4813	|	12
+4813	|	13
+4813	|	14
+4813	|	15
+4813	|	16
+4813	|	17
+4813	|	18
+4813	|	19
+4813	|	20
+4813	|	21
+4813	|	22
+4813	|	23
+4813	|	24
+4813	|	25
+4813	|	26
+4813	|	27
+4813	|	28
+4813	|	29
+6071	|	0
+6071	|	2
+6071	|	3
+6071	|	4
+6071	|	5
+6071	|	6
+6071	|	7
+6071	|	8
+6071	|	9
+6071	|	10
+6071	|	11
+6071	|	12
+6071	|	13
+6071	|	14
+6071	|	15
+6071	|	16
+6071	|	17
+6071	|	18
+6071	|	19
+6071	|	20
+6071	|	21
+6071	|	22
+6092	|	0
+6092	|	1
+6092	|	2
+6092	|	4
+6092	|	5
+6092	|	6
+6092	|	7
+6092	|	8
+6092	|	9
+6092	|	10
+6092	|	11
+6092	|	12
+6092	|	13
+6092	|	14
+6092	|	15
+6092	|	16
+6092	|	17
+6092	|	19
+6092	|	20
+6092	|	21
+6092	|	22
+7095	|	0
+7095	|	1
+7095	|	2
+7095	|	3
+7095	|	4
+7095	|	5
+7095	|	6
+7095	|	7
+7095	|	8
+7095	|	9
+7095	|	10
+7095	|	11
+7095	|	12
+7095	|	13
+7095	|	14
+7095	|	15
+7095	|	16
+7095	|	17
+7095	|	18
+7095	|	19
+7095	|	20
+7095	|	21
+8774	|	0
+8774	|	1
+8774	|	2
+8774	|	3
+8774	|	4
+8774	|	6
+8774	|	7
+8774	|	9
+8774	|	10
+8774	|	12
+8774	|	13
+8774	|	14
+8774	|	15
+8774	|	18
+8774	|	19
+8774	|	20
+8774	|	21
+8774	|	22
+8774	|	23
+8774	|	24
+8774	|	25
+8774	|	26
+8774	|	27
+8774	|	28
+8774	|	29
+8774	|	17
+8774	|	11
+4813	|	3
+876	|	3
+876	|	26
+6071	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: 3
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+quit done.

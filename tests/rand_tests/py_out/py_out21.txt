@@ -1,0 +1,1027 @@
+init done.
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+AddCarType: INVALID_INPUT
+AddCarType: SUCCESS
+RemoveCarType: FAILURE
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+4299	|	0
+4299	|	1
+4299	|	2
+4299	|	3
+4299	|	4
+4299	|	6
+4299	|	7
+4299	|	8
+4299	|	9
+4299	|	10
+4299	|	11
+4299	|	12
+4299	|	13
+4299	|	14
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 5
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+RemoveCarType: SUCCESS
+AddCarType: FAILURE
+GetWorstModels: INVALID_INPUT
+RemoveCarType: FAILURE
+SellCar: FAILURE
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+4299	|	0
+4299	|	1
+4299	|	2
+4299	|	3
+4299	|	4
+4299	|	6
+4299	|	7
+4299	|	8
+4299	|	9
+4299	|	10
+4299	|	11
+4299	|	12
+4299	|	13
+4299	|	14
+4299	|	15
+4299	|	16
+4299	|	17
+4299	|	18
+4299	|	19
+4299	|	20
+4299	|	21
+4299	|	22
+6979	|	0
+6979	|	1
+6979	|	2
+6979	|	3
+6979	|	4
+6979	|	5
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	9
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+6979	|	27
+7030	|	0
+7030	|	1
+7030	|	2
+7030	|	3
+7030	|	4
+7030	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+GetWorstModels: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	9
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	20
+1111	|	21
+1111	|	22
+4299	|	0
+4299	|	1
+4299	|	2
+4299	|	3
+4299	|	4
+4299	|	6
+4299	|	7
+4299	|	9
+4299	|	10
+4299	|	11
+4299	|	12
+4299	|	13
+4299	|	14
+4299	|	15
+4299	|	16
+4299	|	17
+4299	|	18
+4299	|	19
+4299	|	20
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	9
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	20
+1111	|	21
+1111	|	22
+4299	|	0
+4299	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: 5
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	9
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	9
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	20
+1111	|	21
+1111	|	22
+4299	|	0
+4299	|	1
+4299	|	2
+4299	|	3
+4299	|	4
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+GetBestSellerModelByType: 3
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	9
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1111	|	22
+4299	|	1
+4299	|	2
+4299	|	4
+4299	|	6
+4299	|	7
+4299	|	9
+4299	|	10
+4299	|	12
+4299	|	13
+4299	|	14
+4299	|	15
+4299	|	16
+4299	|	17
+4299	|	18
+4299	|	20
+4299	|	21
+4299	|	22
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	4
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+7030	|	0
+7030	|	2
+7030	|	4
+7030	|	5
+7030	|	6
+7030	|	7
+8555	|	0
+8555	|	1
+8555	|	2
+8555	|	4
+8555	|	5
+8555	|	6
+8555	|	7
+8555	|	8
+4299	|	5
+8555	|	3
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: INVALID_INPUT
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: INVALID_INPUT
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: INVALID_INPUT
+SellCar: FAILURE
+RemoveCarType: SUCCESS
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	4
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+7030	|	0
+7030	|	2
+7030	|	4
+7030	|	7
+8555	|	0
+8555	|	1
+8555	|	2
+8555	|	5
+8555	|	6
+8555	|	7
+8555	|	8
+8555	|	3
+6979	|	5
+7030	|	3
+1111	|	9
+1111	|	20
+1111	|	22
+6979	|	1
+6979	|	9
+6979	|	27
+7030	|	5
+7030	|	8
+8555	|	4
+7030	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	4
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 9
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 5
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+GetBestSellerModelByType: 3
+SellCar: SUCCESS
+AddCarType: FAILURE
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+1903	|	0
+845	|	0
+845	|	1
+845	|	2
+845	|	3
+845	|	4
+845	|	5
+845	|	6
+845	|	7
+845	|	8
+845	|	9
+845	|	10
+845	|	11
+845	|	12
+845	|	13
+845	|	14
+845	|	15
+845	|	16
+845	|	17
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1903	|	1
+1903	|	2
+1903	|	3
+1903	|	4
+1903	|	5
+1903	|	6
+1903	|	7
+1903	|	8
+1903	|	10
+1903	|	12
+1903	|	13
+1903	|	14
+4394	|	0
+4394	|	1
+4394	|	2
+4394	|	4
+4394	|	5
+4394	|	6
+4394	|	7
+4394	|	8
+4394	|	9
+4394	|	10
+4394	|	11
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+7030	|	0
+7030	|	2
+7030	|	4
+7030	|	7
+8555	|	0
+8555	|	1
+8555	|	2
+8555	|	5
+8555	|	6
+8555	|	7
+7030	|	3
+7030	|	8
+1111	|	9
+1111	|	20
+1111	|	22
+1903	|	9
+1903	|	11
+1903	|	15
+4394	|	3
+6979	|	1
+6979	|	4
+6979	|	9
+6979	|	27
+7030	|	5
+8555	|	4
+8555	|	8
+8555	|	3
+6979	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1903	|	0
+845	|	0
+845	|	1
+845	|	2
+845	|	3
+845	|	4
+845	|	5
+845	|	6
+845	|	7
+845	|	8
+845	|	9
+845	|	10
+845	|	11
+845	|	12
+845	|	13
+845	|	14
+845	|	15
+845	|	16
+845	|	17
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1903	|	1
+1903	|	2
+1903	|	3
+1903	|	4
+1903	|	5
+1903	|	6
+1903	|	7
+1903	|	8
+1903	|	10
+1903	|	12
+1903	|	13
+1903	|	14
+4394	|	0
+4394	|	1
+4394	|	2
+4394	|	4
+4394	|	5
+4394	|	6
+4394	|	7
+--End of worst models--
+GetWorstModels: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: INVALID_INPUT
+AddCarType: FAILURE
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1903	|	0
+845	|	0
+845	|	1
+845	|	2
+845	|	3
+845	|	4
+845	|	5
+845	|	7
+845	|	9
+845	|	10
+845	|	11
+845	|	12
+845	|	13
+845	|	14
+845	|	15
+845	|	16
+845	|	17
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1903	|	1
+1903	|	2
+1903	|	3
+1903	|	4
+1903	|	5
+1903	|	6
+1903	|	7
+1903	|	8
+1903	|	10
+1903	|	12
+1903	|	13
+1903	|	14
+4341	|	0
+4341	|	1
+4341	|	2
+4341	|	3
+4341	|	4
+4341	|	5
+4341	|	6
+4341	|	7
+4341	|	8
+4341	|	9
+4341	|	10
+4341	|	11
+4341	|	12
+4341	|	13
+4341	|	14
+4341	|	15
+4341	|	16
+4341	|	17
+4341	|	18
+4341	|	19
+4341	|	20
+4341	|	21
+4341	|	22
+4341	|	23
+4341	|	24
+4341	|	25
+4341	|	26
+4394	|	0
+4394	|	1
+4394	|	2
+4394	|	4
+4394	|	5
+4394	|	6
+4394	|	7
+4394	|	8
+4394	|	9
+4394	|	10
+4394	|	11
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+7030	|	0
+7030	|	2
+7030	|	4
+7030	|	7
+8544	|	0
+8544	|	1
+8544	|	2
+8544	|	3
+8544	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+1903	|	0
+845	|	0
+845	|	1
+845	|	2
+845	|	3
+845	|	4
+845	|	5
+845	|	7
+845	|	9
+845	|	10
+845	|	11
+845	|	12
+845	|	13
+845	|	14
+845	|	15
+845	|	16
+845	|	17
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1903	|	1
+1903	|	2
+1903	|	3
+1903	|	4
+1903	|	5
+1903	|	6
+1903	|	7
+1903	|	8
+1903	|	10
+1903	|	12
+1903	|	13
+1903	|	14
+4341	|	0
+4341	|	1
+4341	|	2
+4341	|	3
+4341	|	4
+4341	|	5
+4341	|	6
+4341	|	7
+4341	|	8
+4341	|	9
+4341	|	10
+4341	|	11
+4341	|	12
+4341	|	13
+4341	|	14
+4341	|	15
+4341	|	16
+4341	|	17
+4341	|	18
+4341	|	19
+4341	|	20
+4341	|	21
+4341	|	22
+4341	|	23
+4341	|	24
+4341	|	25
+4341	|	26
+4394	|	0
+4394	|	1
+4394	|	2
+4394	|	4
+4394	|	5
+4394	|	6
+4394	|	7
+4394	|	8
+4394	|	9
+4394	|	10
+4394	|	11
+6979	|	0
+6979	|	2
+6979	|	3
+6979	|	6
+6979	|	7
+6979	|	8
+6979	|	10
+6979	|	11
+6979	|	12
+6979	|	13
+6979	|	14
+6979	|	15
+6979	|	16
+6979	|	17
+6979	|	18
+6979	|	19
+6979	|	20
+6979	|	21
+6979	|	22
+6979	|	23
+6979	|	24
+6979	|	25
+6979	|	26
+7030	|	0
+7030	|	2
+7030	|	4
+7030	|	7
+8544	|	0
+8544	|	1
+8544	|	2
+8544	|	3
+8544	|	5
+8544	|	6
+8544	|	8
+8544	|	9
+8544	|	10
+8544	|	11
+8544	|	12
+8544	|	13
+8555	|	0
+8555	|	1
+8555	|	2
+8555	|	5
+8555	|	6
+8555	|	7
+7030	|	3
+845	|	6
+7030	|	8
+845	|	8
+1111	|	9
+1111	|	20
+1111	|	22
+1903	|	9
+1903	|	11
+1903	|	15
+4394	|	3
+6979	|	1
+6979	|	4
+6979	|	9
+6979	|	27
+7030	|	5
+8544	|	4
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+1903	|	0
+845	|	0
+845	|	1
+845	|	2
+845	|	3
+845	|	4
+845	|	5
+845	|	7
+845	|	9
+845	|	10
+845	|	11
+845	|	12
+845	|	13
+845	|	14
+845	|	15
+845	|	16
+845	|	17
+1111	|	0
+1111	|	1
+1111	|	2
+1111	|	3
+1111	|	4
+1111	|	5
+1111	|	6
+1111	|	7
+1111	|	8
+1111	|	10
+1111	|	11
+1111	|	12
+1111	|	13
+1111	|	14
+1111	|	15
+1111	|	16
+1111	|	17
+1111	|	18
+1111	|	19
+1111	|	21
+1903	|	1
+1903	|	2
+1903	|	3
+1903	|	4
+1903	|	5
+1903	|	6
+1903	|	7
+1903	|	8
+1903	|	10
+1903	|	12
+1903	|	13
+1903	|	14
+4341	|	0
+4341	|	1
+4341	|	2
+4341	|	3
+4341	|	4
+4341	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+GetBestSellerModelByType: FAILURE
+RemoveCarType: FAILURE
+GetBestSellerModelByType: 6
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: FAILURE
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+quit done.

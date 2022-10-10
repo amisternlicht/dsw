@@ -1,0 +1,400 @@
+init done.
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+AddCarType: INVALID_INPUT
+MakeComplaint: INVALID_INPUT
+SellCar: FAILURE
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+GetBestSellerModelByType: 0
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+GetBestSellerModelByType: FAILURE
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	2
+366	|	3
+366	|	4
+366	|	5
+366	|	6
+366	|	8
+366	|	9
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+366	|	14
+366	|	15
+366	|	16
+366	|	17
+366	|	18
+366	|	19
+366	|	20
+366	|	21
+366	|	22
+366	|	23
+366	|	24
+366	|	25
+366	|	26
+366	|	27
+366	|	28
+366	|	29
+549	|	0
+549	|	1
+549	|	2
+549	|	3
+549	|	4
+549	|	5
+870	|	0
+870	|	1
+870	|	2
+870	|	3
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	2
+366	|	3
+366	|	4
+366	|	5
+366	|	6
+366	|	8
+366	|	9
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+--End of worst models--
+GetWorstModels: SUCCESS
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 7
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: INVALID_INPUT
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+GetBestSellerModelByType: 7
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: FAILURE
+GetBestSellerModelByType: 2
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+RemoveCarType: FAILURE
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+RemoveCarType: FAILURE
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	2
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+366	|	10
+366	|	11
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 2
+RemoveCarType: SUCCESS
+GetBestSellerModelByType: 0
+GetBestSellerModelByType: 2
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	2
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+366	|	14
+366	|	15
+366	|	16
+366	|	17
+366	|	18
+366	|	19
+366	|	20
+366	|	21
+366	|	22
+366	|	23
+366	|	24
+366	|	25
+366	|	26
+366	|	27
+366	|	28
+366	|	29
+549	|	1
+549	|	3
+549	|	4
+870	|	2
+870	|	3
+870	|	5
+870	|	6
+870	|	7
+870	|	8
+870	|	9
+870	|	10
+870	|	11
+870	|	12
+870	|	13
+870	|	14
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: FAILURE
+SellCar: SUCCESS
+GetBestSellerModelByType: 9
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+366	|	14
+366	|	15
+366	|	16
+366	|	17
+366	|	18
+366	|	19
+366	|	20
+366	|	21
+366	|	22
+366	|	23
+366	|	24
+366	|	25
+366	|	26
+366	|	27
+366	|	28
+366	|	29
+549	|	1
+549	|	4
+870	|	2
+870	|	3
+870	|	5
+870	|	6
+870	|	7
+870	|	8
+870	|	9
+870	|	10
+870	|	11
+870	|	12
+870	|	13
+870	|	14
+870	|	15
+870	|	16
+870	|	18
+870	|	19
+870	|	20
+973	|	0
+973	|	1
+973	|	2
+973	|	3
+973	|	4
+973	|	5
+973	|	6
+973	|	7
+973	|	8
+973	|	10
+973	|	12
+973	|	13
+973	|	14
+973	|	15
+973	|	16
+973	|	17
+973	|	18
+973	|	19
+973	|	20
+973	|	21
+973	|	23
+1645	|	0
+1645	|	1
+1645	|	2
+1645	|	3
+1645	|	4
+4440	|	0
+4440	|	1
+4440	|	2
+4440	|	3
+4440	|	4
+4440	|	5
+4440	|	6
+4440	|	7
+4440	|	8
+4440	|	9
+8010	|	0
+8010	|	3
+8010	|	4
+366	|	7
+973	|	11
+366	|	2
+366	|	4
+366	|	9
+549	|	0
+549	|	3
+549	|	5
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: FAILURE
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+366	|	14
+366	|	15
+366	|	16
+366	|	17
+366	|	18
+366	|	19
+366	|	20
+366	|	21
+366	|	22
+366	|	23
+366	|	24
+366	|	25
+366	|	26
+366	|	27
+366	|	28
+366	|	29
+549	|	1
+549	|	4
+870	|	2
+870	|	3
+870	|	5
+870	|	6
+870	|	7
+870	|	8
+870	|	9
+870	|	10
+870	|	11
+870	|	12
+870	|	13
+870	|	14
+870	|	15
+870	|	16
+870	|	18
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+AddCarType: FAILURE
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+GetBestSellerModelByType: 4
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+366	|	10
+366	|	11
+366	|	12
+366	|	13
+366	|	14
+366	|	15
+366	|	16
+366	|	17
+366	|	18
+366	|	19
+366	|	20
+366	|	21
+366	|	22
+366	|	23
+366	|	24
+366	|	25
+366	|	26
+366	|	27
+366	|	28
+366	|	29
+549	|	1
+549	|	4
+870	|	2
+870	|	3
+870	|	5
+870	|	6
+870	|	7
+870	|	8
+870	|	9
+870	|	10
+870	|	12
+870	|	13
+870	|	14
+870	|	15
+--End of worst models--
+GetWorstModels: SUCCESS
+GetBestSellerModelByType: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+366	|	0
+366	|	1
+366	|	3
+366	|	5
+366	|	6
+366	|	8
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+quit done.

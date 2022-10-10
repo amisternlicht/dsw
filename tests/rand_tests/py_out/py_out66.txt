@@ -1,0 +1,476 @@
+init done.
+GetBestSellerModelByType: FAILURE
+MakeComplaint: INVALID_INPUT
+SellCar: INVALID_INPUT
+AddCarType: SUCCESS
+AddCarType: FAILURE
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+SellCar: FAILURE
+GetBestSellerModelByType: 0
+SellCar: FAILURE
+MakeComplaint: FAILURE
+MakeComplaint: INVALID_INPUT
+SellCar: FAILURE
+SellCar: SUCCESS
+GetBestSellerModelByType: FAILURE
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+GetBestSellerModelByType: 3
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: FAILURE
+GetBestSellerModelByType: 0
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+RemoveCarType: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+--Start of worst models--
+CarType	|	Model
+598	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+RemoveCarType: SUCCESS
+GetBestSellerModelByType: 0
+GetBestSellerModelByType: 0
+SellCar: FAILURE
+AddCarType: SUCCESS
+GetWorstModels: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+AddCarType: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	14
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+376	|	21
+376	|	22
+376	|	23
+598	|	0
+598	|	1
+598	|	2
+598	|	3
+598	|	4
+598	|	5
+598	|	6
+598	|	7
+598	|	8
+598	|	9
+598	|	10
+2145	|	0
+2145	|	1
+2145	|	2
+2145	|	3
+2145	|	4
+2145	|	5
+2145	|	6
+2145	|	7
+2145	|	8
+2145	|	9
+2145	|	10
+3808	|	0
+3808	|	1
+3808	|	2
+3808	|	3
+3808	|	4
+3808	|	5
+3808	|	6
+3808	|	7
+4068	|	0
+4068	|	2
+4068	|	3
+4068	|	4
+6217	|	0
+6217	|	1
+6217	|	2
+6217	|	3
+6217	|	4
+6217	|	5
+6217	|	6
+6217	|	7
+6217	|	8
+6217	|	9
+6778	|	0
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+RemoveCarType: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: INVALID_INPUT
+GetBestSellerModelByType: 1
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: FAILURE
+AddCarType: SUCCESS
+SellCar: SUCCESS
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	14
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+376	|	21
+376	|	22
+376	|	23
+598	|	0
+598	|	2
+598	|	3
+598	|	4
+598	|	5
+598	|	6
+598	|	7
+598	|	8
+598	|	9
+598	|	10
+2145	|	0
+2145	|	1
+2145	|	2
+2145	|	3
+2145	|	4
+2145	|	5
+2145	|	6
+2145	|	7
+2145	|	8
+2145	|	9
+2145	|	10
+2693	|	0
+2693	|	1
+2693	|	2
+2693	|	3
+3808	|	0
+3808	|	1
+3808	|	2
+3808	|	3
+3808	|	4
+3808	|	5
+3808	|	6
+3808	|	7
+4068	|	0
+4068	|	3
+4068	|	4
+5151	|	0
+5151	|	1
+5151	|	2
+6217	|	0
+6217	|	1
+6217	|	2
+6217	|	3
+6217	|	4
+6217	|	5
+6217	|	6
+6217	|	7
+6217	|	8
+6217	|	9
+6778	|	0
+6778	|	1
+6778	|	2
+6778	|	3
+6778	|	4
+6778	|	5
+6778	|	6
+6778	|	7
+9727	|	0
+9727	|	2
+9727	|	1
+--End of worst models--
+GetWorstModels: SUCCESS
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	14
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+GetBestSellerModelByType: 0
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: SUCCESS
+AddCarType: FAILURE
+AddCarType: SUCCESS
+SellCar: FAILURE
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	14
+376	|	15
+376	|	16
+--End of worst models--
+GetWorstModels: SUCCESS
+SellCar: SUCCESS
+AddCarType: INVALID_INPUT
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	14
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+376	|	21
+376	|	22
+376	|	23
+598	|	0
+598	|	2
+598	|	3
+598	|	4
+598	|	5
+598	|	6
+598	|	9
+1932	|	0
+1932	|	1
+1932	|	2
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+GetBestSellerModelByType: 0
+RemoveCarType: SUCCESS
+SellCar: SUCCESS
+AddCarType: SUCCESS
+MakeComplaint: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 1
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+376	|	21
+376	|	22
+376	|	23
+598	|	0
+598	|	2
+598	|	3
+598	|	4
+598	|	5
+598	|	6
+598	|	9
+1932	|	0
+1932	|	1
+1932	|	2
+1932	|	3
+1932	|	4
+1932	|	5
+1932	|	6
+1932	|	7
+1932	|	8
+1932	|	10
+2145	|	0
+2145	|	1
+2145	|	2
+2145	|	3
+2145	|	4
+2145	|	5
+2145	|	6
+2145	|	8
+2145	|	9
+2145	|	10
+2693	|	0
+2693	|	1
+2693	|	3
+3808	|	1
+3808	|	2
+3808	|	3
+3808	|	4
+3808	|	6
+4068	|	3
+4068	|	4
+5079	|	0
+5079	|	1
+5079	|	2
+5079	|	3
+5079	|	4
+5079	|	5
+5079	|	6
+5079	|	7
+5079	|	8
+5079	|	9
+--End of worst models--
+GetWorstModels: SUCCESS
+RemoveCarType: SUCCESS
+SellCar: FAILURE
+--Start of worst models--
+CarType	|	Model
+376	|	0
+376	|	1
+376	|	2
+376	|	3
+376	|	4
+376	|	5
+376	|	6
+376	|	7
+376	|	8
+376	|	9
+376	|	10
+376	|	11
+376	|	12
+376	|	13
+376	|	15
+376	|	16
+376	|	17
+376	|	18
+376	|	19
+376	|	20
+376	|	21
+376	|	22
+376	|	23
+598	|	0
+598	|	2
+598	|	3
+598	|	4
+598	|	5
+598	|	6
+598	|	9
+1932	|	0
+1932	|	1
+1932	|	2
+1932	|	3
+--End of worst models--
+GetWorstModels: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: SUCCESS
+GetBestSellerModelByType: 0
+RemoveCarType: SUCCESS
+quit done.

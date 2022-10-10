@@ -1,0 +1,19 @@
+Init
+AddCarType -6 21
+GetWorstModels -8
+AddCarType 4703 11
+AddCarType 2343 1
+AddCarType 6516 29
+GetWorstModels 21
+AddCarType 1938 18
+MakeComplaint 7 -4 50
+SellCar 6516 12
+MakeComplaint 2652 3 95
+SellCar 6516 24
+GetWorstModels 52
+MakeComplaint 6516 12 6
+SellCar 1938 4
+SellCar 6516 26
+AddCarType 2636 15
+GetWorstModels 75
+Quit

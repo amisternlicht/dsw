@@ -1,0 +1,35 @@
+init done.
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+MakeComplaint: SUCCESS
+AddCarType: SUCCESS
+AddCarType: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+MakeComplaint: FAILURE
+MakeComplaint: SUCCESS
+MakeComplaint: FAILURE
+SellCar: SUCCESS
+SellCar: SUCCESS
+SellCar: SUCCESS
+GetBestSellerModelByType: 2
+RemoveCarType: SUCCESS
+GetWorstModels: SUCCESS
+CarType	|	Model
+1	|	1
+2	|	0
+2	|	1
+2	|	2
+1	|	0
+1	|	2
+--End of worst types--
+GetBestSellerModelByType: 4
+quit done.
